@@ -44,7 +44,7 @@ for page in range(20):
 
             if (datetime.now(timezone('EST')) - date).days <= MAX_DAYS:
                 #Write News
-                data.append({"good_news": 1, "title": title, "date": str(date), "link": link})
+                data.append({"good_news": 1, "title": title, "stock": ticker, "date": str(date), "link": link})
         idx += 1
 
 with open("gainers.json", "w+", encoding="utf-8") as _file:
