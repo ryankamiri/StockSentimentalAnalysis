@@ -1,5 +1,6 @@
 import json
 import helper
+import os
 
 files = [helper.findFilename("gainers", "data"), helper.findFilename("losers", "data")]
 
@@ -11,6 +12,10 @@ dateFilename = "data/training_data.json"
 for filename in files:
     with open(f"data/{filename}", "r", encoding="utf-8") as _file:
         newData += json.load(_file)
+
+if not os.path.exists(dateFilename):
+    with open(dateFilename, "w+", encoding="utf-8") as _file:
+        _file.write([])
 
 with open(dateFilename, "r", encoding="utf-8") as _file:
     data = json.load(_file)
