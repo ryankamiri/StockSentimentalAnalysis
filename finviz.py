@@ -43,7 +43,7 @@ def getScreener(params, pages=1):
                 link = temp.attrs["href"]
 
                 date = datetime.strptime(date, "%b-%d-%y %I:%M%p").replace(tzinfo=timezone('EST'))
-                data.append({"title": title, "ticker": ticker, "date": str(date), "link": link})
+                data.append({"title": title, "ticker": ticker, "date": date, "link": link})
             idx += 1
     
     return data
