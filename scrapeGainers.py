@@ -12,6 +12,11 @@ for article in finviz.getScreener("v=341&s=ta_topgainers", 20):
         #Write News
         data.append({"good_news": 1, "title": article["title"], "stock": article["ticker"], "date": str(article["date"]), "link": article["link"]})
 
+for article in finviz.getScreener("v=341&s=ta_newhigh&ft=4", 3):
+    if (datetime.now(timezone('EST')) - article["date"]).days <= MAX_DAYS:
+        #Write News
+        data.append({"good_news": 1, "title": article["title"], "stock": article["ticker"], "date": str(article["date"]), "link": article["link"]})
+
 for article in finviz.getScreener("v=341&s=n_majornews&f=ta_perf_dup&ft=4", 3):
     #Write News
     data.append({"good_news": 1, "title": article["title"], "stock": article["ticker"], "date": str(article["date"]), "link": article["link"]})
