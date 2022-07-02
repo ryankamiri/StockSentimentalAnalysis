@@ -1,0 +1,3 @@
+6/29 - model keeps overfitting, determined cause: lack of data
+6/30 - data augmentation by back translation improved val accuracy to 95%
+7/1 - model might be memorizing due to similiarity from translations, tested by giving 50% whether data is augmented, results: 85% val accuracy, plan: augment ONLY training and obtain more data
