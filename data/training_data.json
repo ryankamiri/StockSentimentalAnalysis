@@ -13235,5 +13235,712 @@
         "stock": "TER",
         "date": "2022-06-28 07:45:00-05:00",
         "link": "https://finance.yahoo.com/news/teradynes-nasdaq-ter-returns-heres-114508754.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Sea Limited Declined by 19.1% in June",
+        "stock": "COMP",
+        "date": "2022-07-03 09:34:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/why-sea-limited-declined-by-191-in-june/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Down 21%, Is the Stock Market Ready to Recover in the Back Half of 2022?",
+        "stock": "COMP",
+        "date": "2022-07-03 06:27:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/down-21-is-the-stock-market-ready-to-recover-in-th/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Nasdaq Sell-Off: 3 Growth Stocks You May Regret Not Buying on the Dip",
+        "stock": "COMP",
+        "date": "2022-07-02 12:15:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/nasdaq-sell-off-3-growth-stocks-youll-regret-not-b/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Nasdaq Bear Market: 5 Superb Growth Stocks You'll Regret Not Buying on the Dip",
+        "stock": "COMP",
+        "date": "2022-07-02 05:06:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/nasdaq-bear-market-5-growth-stocks-regret-not-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Chief Financial Officer Narayan Prabhu Just Bought A Handful Of Shares In Reviva Pharmaceuticals Holdings, Inc. (NASDAQ:RVPH)",
+        "stock": "RVPH",
+        "date": "2022-07-02 08:21:00-05:00",
+        "link": "https://finance.yahoo.com/news/chief-financial-officer-narayan-prabhu-122148842.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Weddings are through the roof this year, Zola CEO",
+        "stock": "ETSY",
+        "date": "2022-07-03 14:40:00-05:00",
+        "link": "https://finance.yahoo.com/news/weddings-are-through-the-roof-this-year-zola-ceo-184004333.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Etsy's Stock Has Crashed -- Buy the Dip?",
+        "stock": "ETSY",
+        "date": "2022-07-03 08:20:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/etsys-stock-has-crashed-buy-the-dip/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Jobs, JOLTS, and the Fed: What to know this week",
+        "stock": "RDFN",
+        "date": "2022-07-03 11:35:00-05:00",
+        "link": "https://finance.yahoo.com/news/july-5-week-ahead-markets-preview-153549016.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Investors three-year losses grow to 72% as the stock sheds US$71m this past week",
+        "stock": "QUOT",
+        "date": "2022-07-02 08:57:00-05:00",
+        "link": "https://finance.yahoo.com/news/investors-three-losses-grow-72-125747128.html"
+    },
+    {
+        "good_news": 1,
+        "title": "This Growth Stock Is Effectively Grappling With Inflation, but Should Investors Buy Now?",
+        "stock": "CHWY",
+        "date": "2022-07-03 11:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/this-growth-stock-is-effectively-grappling-with-in/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Is It Too Late to Buy Roblox Stock?",
+        "stock": "RBLX",
+        "date": "2022-07-02 13:59:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/is-it-too-late-to-buy-roblox-stock/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Why DocuSign Crashed 31.6% in June",
+        "stock": "DOCU",
+        "date": "2022-07-03 09:10:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/why-docusign-crashed-316-in-june/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Tsakos Energy Navigation's (NYSE:TNP) Dividend Will Be US$0.10",
+        "stock": "TNP",
+        "date": "2022-07-03 08:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/tsakos-energy-navigations-nyse-tnp-120553492.html"
+    },
+    {
+        "good_news": 1,
+        "title": "CFO, Principal Financial Officer and Chief Business Officer Fang Ni Just Bought 57% More Shares In Black Diamond Therapeutics, Inc. (NASDAQ:BDTX)",
+        "stock": "BDTX",
+        "date": "2022-07-02 08:29:00-05:00",
+        "link": "https://finance.yahoo.com/news/cfo-principal-financial-officer-chief-122908416.html"
+    },
+    {
+        "good_news": 1,
+        "title": "General Mills and Micron Raised Their Dividends. Banks Should Be Lifting Theirs Soon, Too.",
+        "stock": "GIS",
+        "date": "2022-07-02 08:00:00-05:00",
+        "link": "https://www.barrons.com/articles/general-mills-micron-stock-dividends-banks-51656711970?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "California Governor Newsom Runs Ads in Florida Attacking GOP",
+        "stock": "TSLA",
+        "date": "2022-07-03 12:23:00-05:00",
+        "link": "https://finance.yahoo.com/news/california-governor-newsom-runs-ads-162308175.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Teslas second-quarter sales drop amid supply-chain and other pandemic-linked problems",
+        "stock": "TSLA",
+        "date": "2022-07-03 11:40:00-05:00",
+        "link": "https://www.marketwatch.com/story/teslas-2nd-quarter-sales-drop-amid-supply-chain-pandemic-problems-01656786775?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Tesla Q2 deliveries hit by China shutdowns; says June was best month ever",
+        "stock": "TSLA",
+        "date": "2022-07-03 10:56:00-05:00",
+        "link": "https://finance.yahoo.com/news/tesla-q-2-deliveries-hit-by-china-shutdowns-says-june-was-best-month-ever-145644424.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Teslas Bumpy Quarter Might Be About More Than Lockdowns in China",
+        "stock": "TSLA",
+        "date": "2022-07-03 09:58:00-05:00",
+        "link": "https://www.wsj.com/articles/teslas-bumpy-quarter-might-be-about-more-than-lockdowns-in-china-11656856728?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "China Hamstrung Tesla in the First Half of the Year. The Spotlight Now Will Be on Cash Flow.",
+        "stock": "TSLA",
+        "date": "2022-07-03 09:54:00-05:00",
+        "link": "https://www.barrons.com/articles/china-hamstrung-tesla-in-the-first-half-of-the-year-the-spotlight-now-will-be-on-cash-flow-51656856442?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Tesla loses $440m as Elon Musk's Bitcoin bet sours",
+        "stock": "TSLA",
+        "date": "2022-07-03 08:34:00-05:00",
+        "link": "https://finance.yahoo.com/news/tesla-loses-440m-elon-musks-123412837.html"
+    },
+    {
+        "good_news": 1,
+        "title": "German road traffic agency says 59,000 Tesla vehicles have software glitch",
+        "stock": "TSLA",
+        "date": "2022-07-03 05:36:00-05:00",
+        "link": "https://finance.yahoo.com/news/german-road-traffic-agency-says-093659091.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Theyll chicken out: Fund legend Rick Rule says the Fed wont keep hiking rates aggressively, even to prevent amazing damage. Here are 3 spots he likes for your money",
+        "stock": "AAPL",
+        "date": "2022-07-03 16:35:00-05:00",
+        "link": "https://finance.yahoo.com/news/ll-chicken-fund-legend-rick-154500463.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Worried About Personal Data Leaks? Heres How to Lock Down Your Phone",
+        "stock": "AAPL",
+        "date": "2022-07-03 10:00:00-05:00",
+        "link": "https://www.wsj.com/articles/worried-about-personal-data-leaks-heres-how-to-lock-down-your-phone-11656799748?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Learn This Investing Lesson, And You'll Have the Key to Success",
+        "stock": "AAPL",
+        "date": "2022-07-03 05:45:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/learn-this-investing-lesson-and-youll-have-the-key/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Here Are 2 of the Best Stocks to Buy if the U.S. Avoids a Recession",
+        "stock": "AAPL",
+        "date": "2022-07-02 14:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/here-are-2-best-stocks-buy-if-us-avoids-recession/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Will the Apple and MLS Deal Attract a New Generation?",
+        "stock": "AAPL",
+        "date": "2022-07-02 09:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/will-the-apple-and-mls-deal-attract-a-new-generati/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Its so horrible that I want to buy it  Jim Cramer likes these 2 crushed tech stocks that are still posting white-hot revenue growth",
+        "stock": "AAPL",
+        "date": "2022-07-02 07:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/horrible-want-buy-jim-cramer-110000696.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Is Apple Dictating the Future of Sports Streaming?",
+        "stock": "AAPL",
+        "date": "2022-07-02 07:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/is-apple-dictating-the-future-of-sports-streaming/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "More Americans Are Using Digital Wallets Than Ever. Which One Should You Choose Right Now?",
+        "stock": "AAPL",
+        "date": "2022-07-02 06:32:00-05:00",
+        "link": "https://www.fool.com/the-ascent/personal-finance/articles/more-americans-are-using-digital-wallets-than-ever-which-one-should-you-choose-right-now/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "How Many of Your Stocks Are Based in California? (And Is That a Bad Thing?)",
+        "stock": "AAPL",
+        "date": "2022-07-02 06:30:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/how-many-of-your-stocks-are-based-in-california-an/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Crowds of July 4 Fliers Get Some Reprieve as Cancellations Ebb",
+        "stock": "DAL",
+        "date": "2022-07-03 14:54:00-05:00",
+        "link": "https://finance.yahoo.com/news/crowds-july-4-fliers-reprieve-185427165.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Airline Delays and Cancellations Hobble July Fourth Weekend Travel",
+        "stock": "DAL",
+        "date": "2022-07-02 19:49:00-05:00",
+        "link": "https://www.wsj.com/articles/airline-delays-and-cancellations-hobble-july-fourth-weekend-travel-11656792216?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "U.S. holiday-travel chaos: Airlines brace for huge weekend crowds",
+        "stock": "DAL",
+        "date": "2022-07-02 11:37:00-05:00",
+        "link": "https://www.marketwatch.com/story/u-s-holiday-travel-chaos-airlines-brace-for-huge-weekend-crowds-01656776262?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "$10,000 offers to get off a plane, CEO apologies and free pizza: Heres how a massive labor shortage and pent-up demand helped create a chaotic summer for airlines",
+        "stock": "DAL",
+        "date": "2022-07-02 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/10-000-offers-off-plane-113000053.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Delta is experimenting with flight information boards that know who you are and where youre going",
+        "stock": "DAL",
+        "date": "2022-07-02 07:00:00-05:00",
+        "link": "https://qz.com/2183996/delta-is-trying-personalized-flight-information-boards-called-parallel-reality/?utm_source=YPL"
+    },
+    {
+        "good_news": 1,
+        "title": "Jeff Bezos clashes with Biden administration again over inflation",
+        "stock": "AMZN",
+        "date": "2022-07-03 16:47:00-05:00",
+        "link": "https://www.ft.com/cms/s/b7ac1a47-c42c-4eb1-90e6-f10b18693c72,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev"
+    },
+    {
+        "good_news": 1,
+        "title": "Bezos Criticizes Bidens Call for Gas Stations to Cut Prices",
+        "stock": "AMZN",
+        "date": "2022-07-03 14:41:00-05:00",
+        "link": "https://www.wsj.com/articles/bezos-criticizes-bidens-call-for-gas-stations-to-cut-prices-11656873702?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "2 Top AI Stocks Ready for a Bull Run",
+        "stock": "AMZN",
+        "date": "2022-07-03 07:52:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/2-top-ai-stocks-for-a-bull-run/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "2 Bargain Stocks You Can Buy Today and Hold Forever",
+        "stock": "AMZN",
+        "date": "2022-07-02 11:37:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/2-bargain-stocks-you-can-buy-today-and-hold-foreve/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "You Won't Want to Miss This Dividend Stock's Bright Future",
+        "stock": "AMZN",
+        "date": "2022-07-02 10:35:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/you-wont-want-to-miss-this-dividend-stocks-bright/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Will This Spotify Acquisition Strengthen Ad Revenue?",
+        "stock": "AMZN",
+        "date": "2022-07-02 08:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/will-this-spotify-acquisition-strengthen-ad-revenu/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Facebook Slams the Brakes on Hiring: Should You Sell Meta Stock?",
+        "stock": "AMZN",
+        "date": "2022-07-02 07:55:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/facebook-slams-brakes-on-hiring-sell-meta-stock/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Carvana's Stock Is Down 90%. Here's Why It's a Buy",
+        "stock": "AMZN",
+        "date": "2022-07-02 07:05:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/carvanas-stock-is-90-off-heres-why-its-a-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Could Prologis Be in Trouble?",
+        "stock": "AMZN",
+        "date": "2022-07-02 07:01:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/could-prologis-be-in-trouble/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Coinbase Launches Derivatives Product in Crowdedand DepressedMarket",
+        "stock": "COIN",
+        "date": "2022-07-02 18:59:00-05:00",
+        "link": "https://www.wsj.com/articles/coinbase-launches-derivatives-product-in-crowdedand-depressedmarket-11656763202?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Coinbase Faces A New Scandal",
+        "stock": "COIN",
+        "date": "2022-07-02 09:39:00-05:00",
+        "link": "https://www.thestreet.com/investing/cryptocurrency/coinbase-faces-additional-bad-news?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 1,
+        "title": "Grayscale Offers a Giant Bitcoin Discount. Its No Slam Dunk.",
+        "stock": "COIN",
+        "date": "2022-07-02 07:30:00-05:00",
+        "link": "https://www.barrons.com/articles/grayscale-bitcoin-trust-investments-etf-crypto-51656705770?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "SHIB Price Prediction: Improved Sentiment Brings $0.000011 into View",
+        "stock": "COIN",
+        "date": "2022-07-02 05:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/shib-price-prediction-improved-sentiment-090037831.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Ukraine Latest: Fall of Lysychansk Hands Russia Key Eastern City",
+        "stock": "TWTR",
+        "date": "2022-07-03 18:09:00-05:00",
+        "link": "https://finance.yahoo.com/news/ukraine-latest-rebuilding-plan-battling-080429589.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Trump social-media firm subpoenaed by federal grand jury, securities regulators",
+        "stock": "TWTR",
+        "date": "2022-07-03 13:38:00-05:00",
+        "link": "https://www.marketwatch.com/story/trump-social-media-firm-subpoenaed-by-federal-grand-jury-securities-regulators-01656777091?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Putins Media Blitz on Africa Food Crisis Sparks Alarm in Europe",
+        "stock": "TWTR",
+        "date": "2022-07-03 02:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/putin-media-blitz-africa-food-060005427.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Argentina Economy Minister Guzman Resigns as Divisions Grow",
+        "stock": "TWTR",
+        "date": "2022-07-02 20:25:00-05:00",
+        "link": "https://finance.yahoo.com/news/argentina-economy-minister-guzman-resigns-234406629.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Argentines Seek Hedging in Crypto After Economy Minister Resigns",
+        "stock": "TWTR",
+        "date": "2022-07-02 20:08:00-05:00",
+        "link": "https://finance.yahoo.com/news/argentines-seek-hedging-crypto-economy-000856007.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Elon Musk Drops The Curtain On His Natures",
+        "stock": "TWTR",
+        "date": "2022-07-02 09:53:00-05:00",
+        "link": "https://www.thestreet.com/technology/elon-musk-drops-the-curtain-on-his-natures?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 1,
+        "title": "Ukraine Latest: Russia Making All-Out Bid to Capture Lysychansk",
+        "stock": "TWTR",
+        "date": "2022-07-02 09:04:00-05:00",
+        "link": "https://finance.yahoo.com/news/ukraine-latest-death-toll-friday-061930054.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Elon Musk Returns to Twitter, Posting Photo With Pope",
+        "stock": "TWTR",
+        "date": "2022-07-02 04:45:00-05:00",
+        "link": "https://www.wsj.com/articles/elon-musk-returns-to-twitter-posting-photo-with-pope-11656751528?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "1 Beaten-Down Stock to Buy in July",
+        "stock": "GM",
+        "date": "2022-07-03 09:06:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/1-beaten-down-stock-to-buy-in-july/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Dont Take a Risk on the Digital World Acquisition Corp. Dumpster Fire",
+        "stock": "DWAC",
+        "date": "2022-06-29 06:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/don-t-risk-digital-world-104302391.html"
+    },
+    {
+        "good_news": 1,
+        "title": "7 Beaten-Down Nasdaq Stocks to Buy Before They Rebound",
+        "stock": "FANG",
+        "date": "2022-06-29 18:07:00-05:00",
+        "link": "https://finance.yahoo.com/news/7-beaten-down-nasdaq-stocks-220753000.html"
+    },
+    {
+        "good_news": 1,
+        "title": "American Airlines Computer Glitch Disrupts Pilots Schedules",
+        "stock": "AAL",
+        "date": "2022-07-03 14:17:00-05:00",
+        "link": "https://www.wsj.com/articles/american-airlines-computer-glitch-disrupts-pilots-schedules-11656867339?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Investors five-year losses grow to 74% as the stock sheds US$500m this past week",
+        "stock": "AAL",
+        "date": "2022-07-02 09:37:00-05:00",
+        "link": "https://finance.yahoo.com/news/investors-five-losses-grow-74-133751068.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Roku and Walmart: Is This Partnership a Big Deal?",
+        "stock": "WMT",
+        "date": "2022-07-02 07:22:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/roku-and-walmart-is-this-partnership-a-big-deal/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Walmart, Target Show Divergence on Companies Abortion Coverage",
+        "stock": "WMT",
+        "date": "2022-07-01 17:14:00-05:00",
+        "link": "https://www.wsj.com/articles/on-abortion-coverage-company-health-plans-diverge-11656700014?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Better Buy: Walmart vs. Costco",
+        "stock": "WMT",
+        "date": "2022-07-01 06:51:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/01/better-buy-walmart-vs-costco/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Walmart Wraps Up Its Largest-Ever Annual Open Call Event, With More Than 330 Products Made, Grown or Assembled in the U.S. Chosen To Be Sold in Stores and Online",
+        "stock": "WMT",
+        "date": "2022-06-30 14:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/walmart-wraps-largest-ever-annual-184300282.html"
+    },
+    {
+        "good_news": 1,
+        "title": "10 Warren Buffett Stocks to Buy for the Second Half of 2022",
+        "stock": "WMT",
+        "date": "2022-06-30 12:51:00-05:00",
+        "link": "https://finance.yahoo.com/news/10-warren-buffett-stocks-buy-165100468.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Walmart's (WMT) Memomi Buyout to Fuel Health & Wellness Mission",
+        "stock": "WMT",
+        "date": "2022-06-30 11:40:00-05:00",
+        "link": "https://finance.yahoo.com/news/walmarts-wmt-memomi-buyout-fuel-154003447.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Amazon Amps Up Its Prime Day And Plans Another During Fall",
+        "stock": "WMT",
+        "date": "2022-06-30 11:20:00-05:00",
+        "link": "https://www.investors.com/news/technology/amazon-prime-day-coming-with-another-in-fall/?src=A00220"
+    },
+    {
+        "good_news": 1,
+        "title": "Here's What a Top Aviation CEO at Boeing Just Said About the Economy",
+        "stock": "BA",
+        "date": "2022-07-02 09:43:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/heres-what-a-top-aviation-ceo-boeing-just-said-abo/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Airbus sells 292 A320 aircraft to four Chinese airlines in a blow to Boeing, as US-China tension tips balance in European maker's favour",
+        "stock": "BA",
+        "date": "2022-07-02 05:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/airbus-sells-292-a320-aircraft-093000678.html"
+    },
+    {
+        "good_news": 1,
+        "title": "S&P 500 Climbs as Rising Consumer Stocks Offset Chip-Led Dent in Tech",
+        "stock": "BA",
+        "date": "2022-07-01 09:53:00-05:00",
+        "link": "https://finance.yahoo.com/news/p-500-climbs-rising-consumer-135358628.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Chinese state airlines to buy almost 300 Airbus jets",
+        "stock": "BA",
+        "date": "2022-07-01 06:27:00-05:00",
+        "link": "https://finance.yahoo.com/news/chinese-state-airlines-buy-almost-102726577.html"
+    },
+    {
+        "good_news": 1,
+        "title": "It Was a Lousy Second QuarterExcept for the U.S. Dollar",
+        "stock": "BLK",
+        "date": "2022-07-01 18:46:00-05:00",
+        "link": "https://www.wsj.com/articles/it-was-a-lousy-second-quarterexcept-for-the-u-s-dollar-11656667800?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock (BLK) Outpaces Stock Market Gains: What You Should Know",
+        "stock": "BLK",
+        "date": "2022-07-01 17:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/blackrock-blk-outpaces-stock-market-215009592.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Where Does the Market Go From Here? Seven Wall Street Strategists Weigh In",
+        "stock": "BLK",
+        "date": "2022-07-01 12:22:00-05:00",
+        "link": "https://www.wsj.com/articles/stock-market-predictions-wall-street-strategists-2022-11656692459?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRocks China ETF Lures Record Cash Amid World-Beating Rally",
+        "stock": "BLK",
+        "date": "2022-06-30 16:29:00-05:00",
+        "link": "https://finance.yahoo.com/news/blackrock-china-etf-lures-record-202907307.html"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock to Report Second Quarter 2022 Earnings on July 15th",
+        "stock": "BLK",
+        "date": "2022-06-30 09:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/blackrock-report-second-quarter-2022-130000205.html"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock\u00ae Canada Announces Risk Rating Updates for Certain iShares Exchange-Traded Funds",
+        "stock": "BLK",
+        "date": "2022-06-29 19:39:00-05:00",
+        "link": "https://finance.yahoo.com/news/blackrock-canada-announces-risk-rating-233900754.html"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock Official Cites Difficult Path on Inflation",
+        "stock": "BLK",
+        "date": "2022-06-28 16:27:00-05:00",
+        "link": "https://www.thestreet.com/investing/blackrock-inflation-peaked-fed-decision?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock joins Wall Street firms in covering employees' abortion travel costs: Internal memo",
+        "stock": "BLK",
+        "date": "2022-06-27 19:55:00-05:00",
+        "link": "https://finance.yahoo.com/news/black-rock-joins-jpm-goldman-sachs-in-covering-travel-expenses-for-employees-seeking-abortion-services-235544460.html"
+    },
+    {
+        "good_news": 1,
+        "title": "BlackRock (BLK) Dips More Than Broader Markets: What You Should Know",
+        "stock": "BLK",
+        "date": "2022-06-27 18:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/blackrock-blk-dips-more-broader-220010377.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Chewy Stock Will Soar. Pet Products Are Recession-Resilient, Says Analyst.",
+        "stock": "CHWY",
+        "date": "2022-06-27 12:53:00-05:00",
+        "link": "https://www.barrons.com/articles/chewy-stock-recession-51656348747?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "This Oil King Has a Brighter Future Than You Might Think",
+        "stock": "XOM",
+        "date": "2022-07-02 08:03:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/this-oil-king-has-a-brighter-future-than-you-might/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Kohl's Plunged 27% This Week",
+        "stock": "KSS",
+        "date": "2022-07-02 09:51:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/why-kohls-plunged-27-this-week/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Bearish Bets: 3 Stocks You Should Consider Shorting This Week",
+        "stock": "EHC",
+        "date": "2022-07-03 10:30:00-05:00",
+        "link": "https://realmoney.thestreet.com/investing/stocks/bearish-bets-3-stocks-you-should-consider-shorting-this-week-16041409?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Top Chip Stocks to Supplement Your Nvidia and AMD Position",
+        "stock": "AMAT",
+        "date": "2022-07-03 07:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/3-top-chip-stocks-to-supplement-your-nvidia-and-am/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why The 42% Return On Capital At Applied Materials (NASDAQ:AMAT) Should Have Your Attention",
+        "stock": "AMAT",
+        "date": "2022-07-02 10:07:00-05:00",
+        "link": "https://finance.yahoo.com/news/why-42-return-capital-applied-140748393.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Bed Bath & Beyond Plummeted 32% This Week",
+        "stock": "BBBY",
+        "date": "2022-07-02 09:36:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/why-bed-bath-beyond-plummeted-32-this-week/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Robinhood Just Added This Cryptocurrency. Is it a Buy?",
+        "stock": "HOOD",
+        "date": "2022-07-02 07:45:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/robinhood-added-this-cryptocurrency-is-it-a-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "GameStop trading nearly destroyed Robinhood",
+        "stock": "HOOD",
+        "date": "2022-07-02 06:01:00-05:00",
+        "link": "https://qz.com/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze/?utm_source=YPL"
+    },
+    {
+        "good_news": 0,
+        "title": "The Real Reason Micron Is Sinking NVIDIA Stock",
+        "stock": "MU",
+        "date": "2022-07-03 08:03:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/the-real-reason-micron-is-sinking-nvidia-stock/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Here's a Winning Stock Many Investors Should NOT Buy",
+        "stock": "MU",
+        "date": "2022-07-03 07:48:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/03/winning-stock-investors-not-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Micron Is Benefiting From These 2 Industry Trends",
+        "stock": "MU",
+        "date": "2022-07-02 13:21:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/micron-is-benefiting-from-these-2-industry-trends/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Micron: It could take a few quarters for growth to re-emerge in semiconductors, analyst says",
+        "stock": "MU",
+        "date": "2022-07-02 10:42:00-05:00",
+        "link": "https://finance.yahoo.com/video/micron-could-few-quarters-growth-144228905.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Semiconductors: 'The slowdown is catching up,' analyst says",
+        "stock": "MU",
+        "date": "2022-07-02 10:17:00-05:00",
+        "link": "https://finance.yahoo.com/news/semiconductor-chip-tech-earnings-covid-consumer-demand-price-target-141737884.html"
+    },
+    {
+        "good_news": 0,
+        "title": "1 Semiconductor Growth Stock You'll Wish You'd Bought on the Dip",
+        "stock": "AMD",
+        "date": "2022-07-02 09:32:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/1-semiconductor-growth-stock-wish-you-bought-dip/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Intel and AMD Were Down Big on Friday",
+        "stock": "AMD",
+        "date": "2022-07-02 08:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/why-intel-and-amd-were-down-big-on-friday/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "While Big Stock Sales and IPOs Stall, Energy Investors Are Making Hay",
+        "stock": "EE",
+        "date": "2022-07-02 10:03:00-05:00",
+        "link": "https://www.wsj.com/articles/while-big-stock-sales-and-ipos-stall-energy-investors-are-making-hay-11656770580?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Further weakness as Energy Vault Holdings (NYSE:NRGV) drops 12% this week, taking one-year losses to 15%",
+        "stock": "NRGV",
+        "date": "2022-07-02 08:42:00-05:00",
+        "link": "https://finance.yahoo.com/news/further-weakness-energy-vault-holdings-124247349.html"
+    },
+    {
+        "good_news": 0,
+        "title": "What Type Of Shareholders Own The Most Number of Foot Locker, Inc. (NYSE:FL) Shares?",
+        "stock": "FL",
+        "date": "2022-07-02 10:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/type-shareholders-own-most-number-141522869.html"
     }
 ]
