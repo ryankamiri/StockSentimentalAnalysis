@@ -2,3 +2,4 @@
 6/30 - data augmentation by back translation improved val accuracy to 95%
 7/1 - model might be memorizing due to similiarity from translations, tested by giving 50% whether data is augmented, results: 85% val accuracy, plan: augment ONLY training and obtain more data
 7/9 - model is overfitting, looking at research papers for nlp for ideal models and trying to obtain more data, getting about 76-80% val acc, going to focus on reducing loss
+7/10 - improved pre processing, stemming works best, took out stop words and non letter characters such as numbers
