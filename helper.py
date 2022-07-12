@@ -2,8 +2,6 @@ import json
 import os
 from datetime import datetime
 import shutil
-import matplotlib.pyplot as plt
-import numpy as np
 
 def writeData(filename, data):
     #Create data dir
@@ -12,7 +10,7 @@ def writeData(filename, data):
         os.makedirs(dataPath)
 
     #Create archive dir
-    archivePath = "archive"
+    archivePath = "archive/data"
     if not os.path.exists(archivePath):
         os.makedirs(archivePath)
     
@@ -33,33 +31,3 @@ def articleExists(data, article):
         if a["link"] == article["link"]:
             return True
     return False
-
-# Plot validation and training curves separately
-
-def plot_loss_curves(history):
-  """
-  Returns separate curves for training and validation
-  """
-  loss = history.history["loss"]
-  val_loss = history.history["val_loss"]
-  
-  accuracy = history.history["accuracy"]
-  val_accuracy = history.history["val_accuracy"]
-
-  epochs = range(len(history.history["loss"]))
-
-  # plot loss
-  plt.plot(epochs, loss, label="training_loss")
-  plt.plot(epochs, val_loss, label="val_loss")
-  plt.title("loss")
-  plt.xlabel("epochs")
-  plt.legend()
-
-  # plot accuracy
-  plt.figure()
-  plt.plot(epochs, accuracy, label="accuracy")
-  plt.plot(epochs, val_accuracy, label="val_accuracy")
-  plt.title("accuracy")
-  plt.xlabel("epochs")
-  plt.legend()
-  plt.show()

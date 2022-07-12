@@ -8863,48 +8863,6 @@
     },
     {
         "good_news": 1,
-        "title": "Redfin Reports Asking Prices Come Down from All-Time High",
-        "stock": "RDFN",
-        "date": "2022-06-30 14:15:00-05:00",
-        "link": "https://finance.yahoo.com/news/redfin-reports-asking-prices-come-181500892.html"
-    },
-    {
-        "good_news": 1,
-        "title": "Homeowners May Be Willing to Relocate After SCOTUS Overturns Roe v. Wade",
-        "stock": "RDFN",
-        "date": "2022-06-29 13:00:00-05:00",
-        "link": "https://finance.yahoo.com/news/homeowners-may-willing-relocate-scotus-170000705.html"
-    },
-    {
-        "good_news": 1,
-        "title": "Home-Price Growth Slowed in April",
-        "stock": "RDFN",
-        "date": "2022-06-28 09:00:00-05:00",
-        "link": "https://www.wsj.com/articles/home-price-growth-slowed-in-april-11656421211?siteid=yhoof2"
-    },
-    {
-        "good_news": 1,
-        "title": "Overqualified rental applicants have 'lead landlords to be more selective': Realtor",
-        "stock": "RDFN",
-        "date": "2022-06-27 16:45:00-05:00",
-        "link": "https://finance.yahoo.com/video/overqualified-rental-applicants-lead-landlords-204545083.html"
-    },
-    {
-        "good_news": 1,
-        "title": "'There's a chance this won't be a horrible recession': Strategist",
-        "stock": "RDFN",
-        "date": "2022-06-27 15:39:00-05:00",
-        "link": "https://finance.yahoo.com/video/theres-chance-wont-horrible-recession-193958125.html"
-    },
-    {
-        "good_news": 1,
-        "title": "'There's a chance this won't be a horrible recession': Strategist",
-        "stock": "RDFN",
-        "date": "2022-06-27 15:32:00-05:00",
-        "link": "https://finance.yahoo.com/video/theres-chance-wont-horrible-recession-193201872.html"
-    },
-    {
-        "good_news": 1,
         "title": "US Sails Seized Russian Yacht to California From Fiji",
         "stock": "SPIR",
         "date": "2022-06-28 11:45:00-05:00",
@@ -10854,7 +10812,7 @@
         "title": "ENCOMPASS HEALTH CELEBRATES LAUNCHING ITS 150TH HOSPITAL WITH ORACLE CERNER EHR",
         "stock": "EHC",
         "date": "2022-06-20 18:06:00-05:00",
-        "link": "https://finance.yahoo.com/news/encompass-health-celebrates-launching-150th-220600639.html"
+        "link": "   "
     },
     {
         "good_news": 0,
@@ -12216,20 +12174,6 @@
     },
     {
         "good_news": 1,
-        "title": "These summer travel destinations are on sale right now",
-        "stock": "RDFN",
-        "date": "2022-07-01 16:04:00-05:00",
-        "link": "https://finance.yahoo.com/video/summer-travel-destinations-sale-now-200448823.html"
-    },
-    {
-        "good_news": 1,
-        "title": "Home Prices Could Level Out in 2023, Redfin Says. What Could Make Them Drop.",
-        "stock": "RDFN",
-        "date": "2022-07-01 15:14:00-05:00",
-        "link": "https://www.barrons.com/articles/home-prices-housing-market-real-estate-51656702716?siteid=yhoof2"
-    },
-    {
-        "good_news": 1,
         "title": "Delta offers passengers $10,000 for seats on an overbooked flight",
         "stock": "ULCC",
         "date": "2022-07-01 17:07:00-05:00",
@@ -12745,20 +12689,6 @@
         "stock": "STLA",
         "date": "2022-06-29 16:49:00-05:00",
         "link": "https://www.barrons.com/articles/ev-stocks-car-market-51656535745?siteid=yhoof2"
-    },
-    {
-        "good_news": 1,
-        "title": "Transformation in Action: Tr\u00e9mery-Metz Powertrain Plants in France Support Stellantis Electrified Portfolio",
-        "stock": "STLA",
-        "date": "2022-06-29 11:00:00-05:00",
-        "link": "https://finance.yahoo.com/news/transformation-action-tr-mery-metz-150000787.html"
-    },
-    {
-        "good_news": 1,
-        "title": "Stellantis' French diesel engine plant to get EV motor boost",
-        "stock": "STLA",
-        "date": "2022-06-29 10:32:00-05:00",
-        "link": "https://finance.yahoo.com/news/stellantis-french-diesel-engine-plant-143205693.html"
     },
     {
         "good_news": 1,
@@ -13284,13 +13214,6 @@
         "stock": "ETSY",
         "date": "2022-07-03 08:20:00-05:00",
         "link": "https://www.fool.com/investing/2022/07/03/etsys-stock-has-crashed-buy-the-dip/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
-    },
-    {
-        "good_news": 1,
-        "title": "Jobs, JOLTS, and the Fed: What to know this week",
-        "stock": "RDFN",
-        "date": "2022-07-03 11:35:00-05:00",
-        "link": "https://finance.yahoo.com/news/july-5-week-ahead-markets-preview-153549016.html"
     },
     {
         "good_news": 1,
@@ -20193,5 +20116,2035 @@
         "stock": "KMT",
         "date": "2022-05-31 19:01:00-05:00",
         "link": "https://finance.yahoo.com/news/kennametal-virtually-attend-loop-capital-230100824.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Peninsula biotech targets $172.5M fundraise after stock doubles from mid-stage study in deadly lung disease",
+        "stock": "PLRX",
+        "date": "2022-07-11 18:00:00-05:00",
+        "link": "https://www.bizjournals.com/sanfrancisco/news/2022/07/11/ipf-lung-pliant-therapeutics-plrx-stock-offering.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 1,
+        "title": "Pliant Therapeutics Stock Just Doubled And Hit A 10-Month High  Here's Why",
+        "stock": "PLRX",
+        "date": "2022-07-11 16:11:00-05:00",
+        "link": "https://www.investors.com/news/technology/biotech-stock-pliant-doubles-and-hits-a-10-month-high-here-is-why/?src=A00220"
+    },
+    {
+        "good_news": 1,
+        "title": "Pliant Therapeutics Announces Proposed Public Offering of Common Stock",
+        "stock": "PLRX",
+        "date": "2022-07-11 16:01:00-05:00",
+        "link": "https://finance.yahoo.com/news/pliant-therapeutics-announces-proposed-public-200100654.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Pliant Therapeutics Stock Is Crushing It Today",
+        "stock": "PLRX",
+        "date": "2022-07-11 12:57:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-pliant-therapeutics-stock-is-crushing-it-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Stock Market Down To Start Earnings Week, Chinese Stocks Getting Hit",
+        "stock": "PLRX",
+        "date": "2022-07-11 12:18:00-05:00",
+        "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-down-to-start-earnings-week-chinese-stocks-getting-hit/?src=A00220"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Are Pliant Therapeutics Shares Rallying Today?",
+        "stock": "PLRX",
+        "date": "2022-07-11 08:18:00-05:00",
+        "link": "https://finance.yahoo.com/news/why-pliant-therapeutics-shares-rallying-121849137.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Pliant's stock gains 41% after sharing positive data about its fibrosis therapy candidate",
+        "stock": "PLRX",
+        "date": "2022-07-11 07:50:00-05:00",
+        "link": "https://www.marketwatch.com/story/pliants-stock-gains-41-after-sharing-positive-data-about-its-fibrosis-therapy-candidate-2022-07-11?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Pliant Therapeutics Announces Positive Safety and Efficacy Data from Phase 2a INTEGRIS-IPF Clinical Trial of PLN-74809 in Patients with Idiopathic Pulmonary Fibrosis",
+        "stock": "PLRX",
+        "date": "2022-07-10 18:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/pliant-therapeutics-announces-positive-safety-221000547.html"
+    },
+    {
+        "good_news": 1,
+        "title": "How this Peninsula company is turning lung drug royalties into acquisitions",
+        "stock": "LJPC",
+        "date": "2022-07-11 17:07:00-05:00",
+        "link": "https://www.bizjournals.com/sanfrancisco/news/2022/07/11/la-jolla-pharmaceutical-ljpc-innoviva-inva-gsk.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 1,
+        "title": "Innoviva Bolsters Its Infectious Disease, Hospital Portfolio With La Jolla Deal",
+        "stock": "LJPC",
+        "date": "2022-07-11 08:14:00-05:00",
+        "link": "https://finance.yahoo.com/news/innoviva-bolsters-infectious-disease-hospital-121425982.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Innoviva to Acquire La Jolla Pharmaceutical Company",
+        "stock": "LJPC",
+        "date": "2022-07-11 07:32:00-05:00",
+        "link": "https://finance.yahoo.com/news/innoviva-acquire-la-jolla-pharmaceutical-113200698.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Trump-Tied SPAC Surges After Elon Musk Dumps His Twitter Bid",
+        "stock": "DWACW",
+        "date": "2022-07-11 16:13:00-05:00",
+        "link": "https://finance.yahoo.com/news/trump-tied-spac-surges-elon-143034484.html"
+    },
+    {
+        "good_news": 1,
+        "title": "SPAC thats merging with Trumps Truth Social surges as Twitter shares dive",
+        "stock": "DWACW",
+        "date": "2022-07-11 11:44:00-05:00",
+        "link": "https://finance.yahoo.com/news/spac-merging-trump-truth-social-154414109.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Shares of Digital World Acquisition Corp. Are Rising Today",
+        "stock": "DWACW",
+        "date": "2022-07-11 11:27:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-shares-of-digital-world-acquisition-corp-are-r/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Walking Away From Twitter Deal May Not Be An Option For Musk: Merger Expert On What's Next",
+        "stock": "DWACW",
+        "date": "2022-07-11 10:45:00-05:00",
+        "link": "https://finance.yahoo.com/news/exclusive-musks-material-adverse-effect-131757578.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Digital World stock surges after Elon Musk terminates Twitter purchase",
+        "stock": "DWACW",
+        "date": "2022-07-08 18:15:00-05:00",
+        "link": "https://www.marketwatch.com/story/digital-world-stock-surges-after-elon-musk-terminates-twitter-purchase-2022-07-08?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Iterum Therapeutics Shares Are Surging - Read Why",
+        "stock": "ITRM",
+        "date": "2022-07-11 14:31:00-05:00",
+        "link": "https://finance.yahoo.com/news/iterum-therapeutics-shares-surging-read-183112753.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Iterum Therapeutics Announces Special Protocol Assessment (SPA) Agreement With the FDA",
+        "stock": "ITRM",
+        "date": "2022-07-11 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/iterum-therapeutics-announces-special-protocol-113000875.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Volcon Receives Thousands of Pre-Orders for its Stag in First 14 Days; $70M+ of Potential Revenue",
+        "stock": "VLCN",
+        "date": "2022-07-11 09:54:00-05:00",
+        "link": "https://finance.yahoo.com/news/volcon-receives-thousands-pre-orders-135400019.html"
+    },
+    {
+        "good_news": 1,
+        "title": "ToughBuilt Industries Reports $3.56 Million in Q2 2022 Sales Through Amazon",
+        "stock": "TBLT",
+        "date": "2022-07-11 08:36:00-05:00",
+        "link": "https://finance.yahoo.com/news/toughbuilt-industries-reports-3-56-123600051.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Here's Why \"Trend\" Investors Would Love Betting on Target Hospitality (TH)",
+        "stock": "TH",
+        "date": "2022-07-11 08:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-trend-investors-love-125012962.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Veru Stock Soared 15% Higher on Monday",
+        "stock": "VERU",
+        "date": "2022-07-11 17:54:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-veru-stock-soared-15-higher-on-monday/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Veru: Analysts Applaud Covid-19 Treatments Positive Data",
+        "stock": "VERU",
+        "date": "2022-07-11 12:46:00-05:00",
+        "link": "https://finance.yahoo.com/news/veru-analysts-applaud-covid-19-164612998.html"
+    },
+    {
+        "good_news": 1,
+        "title": "2 Small-Cap Stocks With Large-Cap Potential",
+        "stock": "VERU",
+        "date": "2022-07-11 11:45:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/2-small-cap-stocks-with-large-cap-potential/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "VERU's Shares Jump on Successful COVID-19 Study Results",
+        "stock": "VERU",
+        "date": "2022-07-08 11:44:00-05:00",
+        "link": "https://finance.yahoo.com/news/verus-shares-jump-successful-covid-154403454.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Veru Stock Got Dented Today",
+        "stock": "VERU",
+        "date": "2022-07-08 11:36:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/08/why-veru-stock-got-dented-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Singing Machine to Announce its Financial Results for the Full Fiscal 2022 Year",
+        "stock": "MICS",
+        "date": "2022-07-11 09:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/singing-machine-announce-financial-results-130000265.html"
+    },
+    {
+        "good_news": 1,
+        "title": "FDA Signs Off Nyxoah's Genio Trial In Complete Concentric Collapse Patients",
+        "stock": "NYXH",
+        "date": "2022-07-11 09:34:00-05:00",
+        "link": "https://finance.yahoo.com/news/fda-signs-off-nyxoahs-genio-133452700.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Nyxoah Receives FDA IDE Approval to Initiate the ACCCESS Study of Genio\u00ae in Complete Concentric Collapse Patients",
+        "stock": "NYXH",
+        "date": "2022-07-11 02:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/nyxoah-receives-fda-ide-approval-060000220.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Howard Jonas Is The Founder & Chairman of Rafael Holdings, Inc. (NYSE:RFL) And They Just Picked Up 83% More Shares",
+        "stock": "RFL",
+        "date": "2022-07-10 08:08:00-05:00",
+        "link": "https://finance.yahoo.com/news/howard-jonas-founder-chairman-rafael-120821861.html"
+    },
+    {
+        "good_news": 1,
+        "title": "GENFIT: Half-Year Report of Liquidity Contract with Cr\u00e9dit Industriel et Commercial",
+        "stock": "GNFT",
+        "date": "2022-07-08 16:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/genfit-half-report-liquidity-contract-201000448.html"
+    },
+    {
+        "good_news": 1,
+        "title": "The NASH Drug Dream Isnt Dead Yet. Intercept is Asking FDA for Approval Again.",
+        "stock": "GNFT",
+        "date": "2022-07-08 11:12:00-05:00",
+        "link": "https://www.barrons.com/articles/intercept-nash-drug-fda-stock-51657293097?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "SemiLEDs to Announce Fiscal Third Quarter 2022 Financial Results on Tuesday, July 12, 2022",
+        "stock": "LEDS",
+        "date": "2022-07-08 06:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/semileds-announce-fiscal-third-quarter-101000840.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Cross Country Healthcare Announces Second Quarter 2022 Earnings Release Date and Conference Call Information",
+        "stock": "CCRN",
+        "date": "2022-07-11 16:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/cross-country-healthcare-announces-second-201500417.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Cross Country Healthcare (CCRN) Just Overtook the 200-Day Moving Average",
+        "stock": "CCRN",
+        "date": "2022-07-11 09:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/cross-country-healthcare-ccrn-just-133001682.html"
+    },
+    {
+        "good_news": 1,
+        "title": "4 Staffing Stocks to Watch on Robust Job Additions to Economy",
+        "stock": "CCRN",
+        "date": "2022-07-11 07:52:00-05:00",
+        "link": "https://finance.yahoo.com/news/4-staffing-stocks-watch-robust-115211950.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Titan Machinery Inc. Announces Strategic Acquisition of Heartland Ag Systems",
+        "stock": "TITN",
+        "date": "2022-07-11 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/titan-machinery-inc-announces-strategic-113000364.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Cyclo Therapeutics to Present at the World Orphan Drug Congress USA 2022",
+        "stock": "CYTH",
+        "date": "2022-07-11 08:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/cyclo-therapeutics-present-world-orphan-120500229.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Wah Fu Partners With SISU & Dotease Information For Online Education Platform Development",
+        "stock": "WAFU",
+        "date": "2022-07-11 13:35:00-05:00",
+        "link": "https://finance.yahoo.com/news/wah-fu-partners-sisu-dotease-173514760.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Wah Fu Education Group Ltd. Announces Cooperation with Sichuan International Studies University and Dotease Information for Online Education Platform Development",
+        "stock": "WAFU",
+        "date": "2022-07-11 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/wah-fu-education-group-ltd-113000503.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Sachem Capital Corp. Announces Dividend Increase to $0.14 Per Share",
+        "stock": "SACH",
+        "date": "2022-07-11 08:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/sachem-capital-corp-announces-dividend-123000473.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Neptune Reports Fiscal Fourth Quarter and Full Year 2022 Financial Results",
+        "stock": "NEPT",
+        "date": "2022-07-08 08:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/neptune-reports-fiscal-fourth-quarter-123000140.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Neptune Reports Fiscal Fourth Quarter and Full Year 2022 Financial Results",
+        "stock": "NEPT",
+        "date": "2022-07-08 08:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/neptune-reports-fiscal-fourth-quarter-123000301.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Oramed to Present at the Upcoming Canaccord Genuity Annual Growth Conference",
+        "stock": "ORMP",
+        "date": "2022-07-11 07:55:00-05:00",
+        "link": "https://finance.yahoo.com/news/oramed-present-upcoming-canaccord-genuity-115500192.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Quipt continues its hot acquisition streak with Hometown Medical purchase",
+        "stock": "QIPT",
+        "date": "2022-07-11 12:00:00-05:00",
+        "link": "https://www.bizjournals.com/cincinnati/news/2022/07/11/quipt-acquires-mississippi-company.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 1,
+        "title": "Quipt Surpasses 200,000 Active Patients Adding Approximately $7 Million in Annualized Revenues, and Anticipated $1.4 Million of Adjusted EBITDA Post Integration",
+        "stock": "QIPT",
+        "date": "2022-07-11 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/quipt-surpasses-200-000-active-113000382.html"
+    },
+    {
+        "good_news": 1,
+        "title": "5 Stocks With Recent Price Strength for a Steady Portfolio",
+        "stock": "PRPH",
+        "date": "2022-07-11 06:25:00-05:00",
+        "link": "https://finance.yahoo.com/news/5-stocks-recent-price-strength-102510386.html"
+    },
+    {
+        "good_news": 1,
+        "title": "ProPhase Labs, Inc. (PRPH) Soars 9.1%: Is Further Upside Left in the Stock?",
+        "stock": "PRPH",
+        "date": "2022-07-08 07:48:00-05:00",
+        "link": "https://finance.yahoo.com/news/prophase-labs-inc-prph-soars-114811466.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Stock Market Under Pressure Ahead Of CPI And Earnings; Tesla And Twitter Getting Hit Hard",
+        "stock": "MUSA",
+        "date": "2022-07-11 14:01:00-05:00",
+        "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-under-pressure-ahead-of-cpi-earnings-tesla-twitter/?src=A00220"
+    },
+    {
+        "good_news": 1,
+        "title": "Savara Announces Acceptance of Three Abstracts at the European Respiratory Society (ERS) International Congress 2022",
+        "stock": "SVRA",
+        "date": "2022-07-11 08:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/savara-announces-acceptance-three-abstracts-120500352.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Zacks.com featured highlights include Savara,  The LGL Group, and Harte Hanks",
+        "stock": "SVRA",
+        "date": "2022-07-11 06:19:00-05:00",
+        "link": "https://finance.yahoo.com/news/zacks-com-featured-highlights-savara-101910611.html"
+    },
+    {
+        "good_news": 1,
+        "title": "FTI Consulting: U.S. Online Retail Sales to Top $1 Trillion in 2022",
+        "stock": "FCN",
+        "date": "2022-07-11 07:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/fti-consulting-u-online-retail-113000992.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Social Capital Suvretta Holdings Corp. III Announces Reconvened Extraordinary General Meeting of Shareholders",
+        "stock": "DNAC",
+        "date": "2022-07-08 19:36:00-05:00",
+        "link": "https://finance.yahoo.com/news/social-capital-suvretta-holdings-corp-233600198.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Vertex Pharmaceuticals (VRTX) Stock Moves -0.07%: What You Should Know",
+        "stock": "VRTX",
+        "date": "2022-07-11 17:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/vertex-pharmaceuticals-vrtx-stock-moves-215009135.html"
+    },
+    {
+        "good_news": 1,
+        "title": "ViaCyte Acquisition Can Accelerate Vertex's Ongoing Type 1 Diabetes Programs",
+        "stock": "VRTX",
+        "date": "2022-07-11 10:54:00-05:00",
+        "link": "https://finance.yahoo.com/news/viacyte-acquisition-accelerate-vertexs-ongoing-145404394.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Vertex to Acquire ViaCyte, With the Goal of Accelerating its Potentially Curative VX-880 Programs in Type 1 Diabetes",
+        "stock": "VRTX",
+        "date": "2022-07-11 08:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/vertex-acquire-viacyte-goal-accelerating-120000697.html"
+    },
+    {
+        "good_news": 1,
+        "title": "7 Moonshot Investments Upending a $10 Trillion Industry",
+        "stock": "VRTX",
+        "date": "2022-07-08 15:53:00-05:00",
+        "link": "https://finance.yahoo.com/news/7-moonshot-investments-upending-10-195305509.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Here's Why \"Trend\" Investors Would Love Betting on Immunocore Holdings PLC Sponsored ADR (IMCR)",
+        "stock": "IMCR",
+        "date": "2022-07-11 08:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-trend-investors-love-125012407.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Immunocore announces dosing of first patient with ImmTAV\u00ae bispecific for HIV",
+        "stock": "IMCR",
+        "date": "2022-07-11 07:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/immunocore-announces-dosing-first-patient-110000126.html"
+    },
+    {
+        "good_news": 1,
+        "title": "California's plan to manufacture cheap insulin: What we know so far",
+        "stock": "CI",
+        "date": "2022-07-11 14:23:00-05:00",
+        "link": "https://finance.yahoo.com/news/californias-plan-to-manufacture-cheap-insulin-what-we-know-so-far-182310787.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Humana (HUM) Gains As Market Dips: What You Should Know",
+        "stock": "HUM",
+        "date": "2022-07-11 18:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/humana-hum-gains-market-dips-220010694.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Citadels Wellington Fund Returned 17.5% This Year. Here are its Top 10 Stock Picks",
+        "stock": "HUM",
+        "date": "2022-07-11 09:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/citadel-wellington-fund-returned-17-131532171.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Citrix names incoming CEO as $16.5B acquisition nears completion",
+        "stock": "CTXS",
+        "date": "2022-07-11 18:36:00-05:00",
+        "link": "https://www.bizjournals.com/southflorida/news/2022/07/11/cirtiix-names-tom-krause-ceo.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 1,
+        "title": "Broadcom loses top software exec in the middle of VMware deal to head combined Citrix-Tibco company",
+        "stock": "CTXS",
+        "date": "2022-07-11 16:40:00-05:00",
+        "link": "https://www.marketwatch.com/story/broadcom-loses-top-software-exec-in-the-middle-of-vmware-deal-11657558307?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Broadcoms Software President Departs, Duties Shift to CEO",
+        "stock": "CTXS",
+        "date": "2022-07-11 16:34:00-05:00",
+        "link": "https://www.wsj.com/articles/broadcom-president-departs-duties-shift-to-ceo-11657549621?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Vista Equity Partners and Evergreen Coast Capital Announce Appointment of Tom Krause as CEO of Combined Company of Citrix Systems and TIBCO Software Upon Closing",
+        "stock": "CTXS",
+        "date": "2022-07-11 16:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/vista-equity-partners-evergreen-coast-200500921.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Citrix Provides Update on Pending Acquisition by Affiliates of Vista Equity Partners and Evergreen Coast Capital",
+        "stock": "CTXS",
+        "date": "2022-07-11 16:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/citrix-provides-pending-acquisition-affiliates-200500631.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Bankers Look Past Musks Twitter Fickleness for Future Deals",
+        "stock": "CTXS",
+        "date": "2022-07-09 12:17:00-05:00",
+        "link": "https://finance.yahoo.com/news/bankers-look-past-musk-twitter-161726766.html"
+    },
+    {
+        "good_news": 1,
+        "title": "7 Best Tech Stocks to Buy in July 2022",
+        "stock": "CTXS",
+        "date": "2022-07-07 08:35:00-05:00",
+        "link": "https://finance.yahoo.com/news/7-best-tech-stocks-buy-123545975.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Banks Get Burned by Risky Debt, Imperiling Buyout Activity",
+        "stock": "CTXS",
+        "date": "2022-07-03 09:03:00-05:00",
+        "link": "https://www.wsj.com/articles/banks-get-burned-by-risky-debt-imperiling-buyout-activity-11656853381?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Nearly 80% of Employees are Working at Cross Purposes to Their Colleagues",
+        "stock": "CTXS",
+        "date": "2022-06-29 09:29:00-05:00",
+        "link": "https://finance.yahoo.com/news/nearly-80-employees-working-cross-132900700.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Modern Work Complexities Cost Organizations $60M Annually; Expected to Increase by 53% in Five Years",
+        "stock": "CTXS",
+        "date": "2022-06-29 09:28:00-05:00",
+        "link": "https://finance.yahoo.com/news/modern-complexities-cost-organizations-60m-132800433.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Gap CEO Sonia Syngal Is Stepping Down",
+        "stock": "WMT",
+        "date": "2022-07-11 19:09:00-05:00",
+        "link": "https://www.wsj.com/articles/gap-inc-says-ceo-sonia-syngal-is-stepping-down-11657572509?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Gap Inc. CEO Sonia Syngal abruptly departs; new Old Navy CEO tapped",
+        "stock": "WMT",
+        "date": "2022-07-11 17:03:00-05:00",
+        "link": "https://www.bizjournals.com/sanfrancisco/news/2022/07/11/gap-sonia-syngal-ceo-departure-old-navy-walmart.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 1,
+        "title": "Amazon Prime Day: Where to find the best deals from other retailers",
+        "stock": "WMT",
+        "date": "2022-07-11 16:09:00-05:00",
+        "link": "https://finance.yahoo.com/video/amazon-prime-day-where-best-200941597.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Amazon Prime Day will be huge for deal seekers hoping to score a discount amid soaring inflation",
+        "stock": "WMT",
+        "date": "2022-07-11 12:36:00-05:00",
+        "link": "https://www.marketwatch.com/story/amazon-prime-day-will-be-huge-for-deal-seekers-hoping-to-score-a-discount-amid-soaring-inflation-11655391628?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Walmart Likes This Company's Technology So Much It Became a Shareholder",
+        "stock": "WMT",
+        "date": "2022-07-11 08:01:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/walmart-likes-this-companys-technology-so-much-it/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "Why Is Everyone Talking About Walmart Stock?",
+        "stock": "WMT",
+        "date": "2022-07-11 07:57:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-is-everyone-talking-about-walmart-stock/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "These Two Retail Giants Just Might Be Inflation-Proof -- Here's Why",
+        "stock": "WMT",
+        "date": "2022-07-09 11:41:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/09/these-two-retail-giants-just-might-be-inflation-pr/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "3 Stocks That Are Great Long-Term Picks",
+        "stock": "WMT",
+        "date": "2022-07-09 05:17:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/09/3-stocks-that-are-great-long-term-picks/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 1,
+        "title": "How to save up to 50% on your grocery bill and reduce food waste",
+        "stock": "WMT",
+        "date": "2022-07-08 16:48:00-05:00",
+        "link": "https://www.marketwatch.com/story/how-to-save-up-to-50-on-your-grocery-bill-and-reduce-food-waste-11657313338?siteid=yhoof2"
+    },
+    {
+        "good_news": 1,
+        "title": "Pliant Therapeutics Presents Preclinical Data Highlighting\u00a0A Novel Approach for the Treatment of Muscular Dystrophies",
+        "stock": "PLRX",
+        "date": "2022-06-22 08:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/pliant-therapeutics-presents-preclinical-data-120000478.html"
+    },
+    {
+        "good_news": 1,
+        "title": "RLI Named to Wards 50\u00ae Top Performing Insurance Companies List For 32nd Consecutive Year",
+        "stock": "RLI",
+        "date": "2022-07-11 16:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/rli-named-ward-50-top-201000515.html"
+    },
+    {
+        "good_news": 1,
+        "title": "RLI Second Quarter Earnings Release & Teleconference",
+        "stock": "RLI",
+        "date": "2022-07-11 16:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/rli-second-quarter-earnings-release-200500920.html"
+    },
+    {
+        "good_news": 1,
+        "title": "RLI Corporation (RLI) Up 10% in a Year: More Room to Run?",
+        "stock": "RLI",
+        "date": "2022-07-11 15:47:00-05:00",
+        "link": "https://finance.yahoo.com/news/rli-corporation-rli-10-more-194707626.html"
+    },
+    {
+        "good_news": 1,
+        "title": "RLI Corp. (RLI) Soars 4.4%: Is Further Upside Left in the Stock?",
+        "stock": "RLI",
+        "date": "2022-06-27 07:20:00-05:00",
+        "link": "https://finance.yahoo.com/news/rli-corp-rli-soars-4-112011954.html"
+    },
+    {
+        "good_news": 1,
+        "title": "The Zacks Analyst Blog Highlights W. R. Berkley, Cincinnati Financial, American Financial Group, RLI and MetLife",
+        "stock": "RLI",
+        "date": "2022-06-17 03:40:00-05:00",
+        "link": "https://finance.yahoo.com/news/zacks-analyst-blog-highlights-w-074007496.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Here's Why You Should Hold eHealth (EHTH) Stock for Now",
+        "stock": "RLI",
+        "date": "2022-06-16 09:44:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-hold-ehealth-ehth-134401475.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Top 5 Insurance Stocks to Play a Higher Interest Rate Regime",
+        "stock": "RLI",
+        "date": "2022-06-16 08:28:00-05:00",
+        "link": "https://finance.yahoo.com/news/top-5-insurance-stocks-play-122812133.html"
+    },
+    {
+        "good_news": 1,
+        "title": "RLI Corp.'s (NYSE:RLI) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock?",
+        "stock": "RLI",
+        "date": "2022-06-16 06:07:00-05:00",
+        "link": "https://finance.yahoo.com/news/rli-corp-nyse-rli-fundamentals-100707550.html"
+    },
+    {
+        "good_news": 1,
+        "title": "Here's Why Investors Should Consider Betting on RLI Stock Now",
+        "stock": "RLI",
+        "date": "2022-06-10 09:01:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-investors-consider-betting-130101840.html"
+    },
+    {
+        "good_news": 1,
+        "title": "5 P&C Insurers to Buy Ahead of Another Active Hurricane Season",
+        "stock": "RLI",
+        "date": "2022-06-10 08:51:00-05:00",
+        "link": "https://finance.yahoo.com/news/5-p-c-insurers-buy-125112686.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why DigitalOcean Stock Sank on Monday",
+        "stock": "DOCN",
+        "date": "2022-07-11 15:09:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-digitalocean-stock-sank-on-monday/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Best Software Stocks to Buy in 2022 and Beyond",
+        "stock": "DOCN",
+        "date": "2022-07-11 06:55:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/3-best-software-stocks-to-buy-in-2022-and-beyond/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "It's Time to Load Up on These 2 Beaten-Down Cloud Stocks",
+        "stock": "DOCN",
+        "date": "2022-07-09 05:23:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/09/its-time-to-load-up-on-these-beaten-down-cloud-sto/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "DigitalOcean Second Quarter 2022 Earnings Conference Call",
+        "stock": "DOCN",
+        "date": "2022-07-08 09:13:00-05:00",
+        "link": "https://finance.yahoo.com/news/digitalocean-second-quarter-2022-earnings-131300279.html"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Beaten-Down Growth Stocks to Buy Right Now",
+        "stock": "DOCN",
+        "date": "2022-07-08 07:10:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/08/3-beaten-down-growth-stocks-to-buy-right-now/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "DigitalOcean Holdings, Inc. (DOCN) Stock Sinks As Market Gains: What You Should Know",
+        "stock": "DOCN",
+        "date": "2022-07-06 18:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/digitalocean-holdings-inc-docn-stock-220010570.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Down 65%, Is This Cloud Provider a Screaming Buy?",
+        "stock": "DOCN",
+        "date": "2022-07-06 06:15:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/06/down-65-is-this-cloud-provider-a-screaming-buy/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "10 Best Stocks to Buy Now According to Billionaire Paul Tudor Jones",
+        "stock": "DOCN",
+        "date": "2022-07-05 08:55:00-05:00",
+        "link": "https://finance.yahoo.com/news/10-best-stocks-buy-now-125532321.html"
+    },
+    {
+        "good_news": 0,
+        "title": "2 Reasons to Buy DigitalOcean Stock, and 1 Reason to Sell",
+        "stock": "DOCN",
+        "date": "2022-06-30 08:20:00-05:00",
+        "link": "https://www.fool.com/investing/2022/06/30/2-reasons-to-buy-digitalocean-stock-and-1-reason-t/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "DigitalOcean Holdings, Inc. (DOCN) Dips More Than Broader Markets: What You Should Know",
+        "stock": "DOCN",
+        "date": "2022-06-29 18:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/digitalocean-holdings-inc-docn-dips-220010138.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Is PTON Stock A Buy Or Sell After Q3 Earnings Report?",
+        "stock": "PTON",
+        "date": "2022-07-11 12:41:00-05:00",
+        "link": "https://www.investors.com/research/peloton-stock-buy-now/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Peloton Interactive Is Dropping Again Today",
+        "stock": "PTON",
+        "date": "2022-07-11 12:05:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-peloton-interactive-is-dropping-again-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Fed Up With China, One Boss Tries Removing It From the Supply Chain",
+        "stock": "PTON",
+        "date": "2022-07-10 05:30:00-05:00",
+        "link": "https://www.wsj.com/articles/fed-up-with-china-one-boss-tries-removing-it-from-the-supply-chain-11657445401?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Stock option re-pricing: downtrodden companies reward workers",
+        "stock": "PTON",
+        "date": "2022-07-07 13:29:00-05:00",
+        "link": "https://www.ft.com/cms/s/dcacd2dc-8802-47c9-8add-24303b72cefc,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev"
+    },
+    {
+        "good_news": 0,
+        "title": "Big Techs Bounceback Is a Glimmer of Hope After Steep Selloff",
+        "stock": "PTON",
+        "date": "2022-07-05 17:51:00-05:00",
+        "link": "https://finance.yahoo.com/news/big-tech-bounceback-glimmer-hope-215144967.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Should You Buy 2 of the Worst-Performing Nasdaq Stocks in 2022?",
+        "stock": "PTON",
+        "date": "2022-07-05 07:05:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/05/should-you-buy-the-nasdaq-2-worst-performing-2022/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Vroom to Pay Fine in Florida Over Customer Complaints. Other States Are Watching Too.",
+        "stock": "CVNA",
+        "date": "2022-07-11 00:04:00-05:00",
+        "link": "https://www.barrons.com/articles/vroom-florida-fine-vehicle-transfers-complaints-51657376697?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Carvana (CVNA) Outpaces Stock Market Gains: What You Should Know",
+        "stock": "CVNA",
+        "date": "2022-07-07 18:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/carvana-cvna-outpaces-stock-market-221510750.html"
+    },
+    {
+        "good_news": 0,
+        "title": "After Sputtering Out of the Fast Lane, Steer Clear of Carvana Stock",
+        "stock": "CVNA",
+        "date": "2022-07-07 17:03:00-05:00",
+        "link": "https://finance.yahoo.com/news/sputtering-fast-lane-steer-clear-210352381.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Carvana to Report Second Quarter and Host Quarterly Conference Call on August 4",
+        "stock": "CVNA",
+        "date": "2022-07-07 17:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/carvana-report-second-quarter-host-210000124.html"
+    },
+    {
+        "good_news": 0,
+        "title": "What Insider Moves Say About Carvana Stock",
+        "stock": "CVNA",
+        "date": "2022-07-02 10:00:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/what-insider-moves-say-about-carvana-stock/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Is Carvana Stock on the Road to Zero?",
+        "stock": "CVNA",
+        "date": "2022-07-01 07:54:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/01/is-carvana-stock-on-the-road-to-zero/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Carvana Stock Popped, Then Retreated Today",
+        "stock": "CVNA",
+        "date": "2022-06-30 12:31:00-05:00",
+        "link": "https://www.fool.com/investing/2022/06/30/why-carvana-stock-popped-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Ukraine Latest: Death Toll Rises at Apartments Hit by Russia",
+        "stock": "TWTR",
+        "date": "2022-07-12 01:34:00-05:00",
+        "link": "https://finance.yahoo.com/news/ukraine-latest-russia-accused-trying-122630859.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Musk Says Trump Should Skip 2024 Race, Was Too Much Drama",
+        "stock": "TWTR",
+        "date": "2022-07-12 00:34:00-05:00",
+        "link": "https://finance.yahoo.com/news/musk-says-trump-skip-2024-043450946.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Dow Jones Futures Fall: Market Rally Runs Into China Wall; Tesla, Twitter Tumble On This",
+        "stock": "TWTR",
+        "date": "2022-07-11 22:17:00-05:00",
+        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-hits-china-walltesla-twitter-tumble/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter Sends Letter to Elon Musk Saying Effort to Terminate Deal Invalid and Wrongful",
+        "stock": "TWTR",
+        "date": "2022-07-11 19:02:00-05:00",
+        "link": "https://www.wsj.com/articles/twitter-sends-letter-to-elon-musk-saying-effort-to-terminate-deal-invalid-and-wrongful-11657573939?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "What Happened to the Twitter-Elon Musk Deal?",
+        "stock": "TWTR",
+        "date": "2022-07-11 18:48:00-05:00",
+        "link": "https://www.wsj.com/articles/twitter-elon-musk-deal-11657325525?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter Stocks Fall Isnt Over, Analysts Warn. How Much More It Could Tumble.",
+        "stock": "TWTR",
+        "date": "2022-07-11 18:35:00-05:00",
+        "link": "https://www.barrons.com/articles/twitter-stock-price-valuation-elon-musk-deal-51657572872?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter Calls Musks Attempt to Kill $44 Billion Deal Invalid and Wrongful",
+        "stock": "TWTR",
+        "date": "2022-07-11 18:20:00-05:00",
+        "link": "https://www.barrons.com/articles/twitter-calls-musks-attempt-to-kill-44-billion-deal-invalid-and-wrongful-51657577505?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Elon Musk Turns Twitter into a Laughing Stock",
+        "stock": "TWTR",
+        "date": "2022-07-11 18:17:00-05:00",
+        "link": "https://www.thestreet.com/technology/elon-musk-turns-twitter-into-a-laughing-stock?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter Lawyers Call Musks Deal Termination Wrongful",
+        "stock": "TWTR",
+        "date": "2022-07-11 18:01:00-05:00",
+        "link": "https://finance.yahoo.com/news/twitter-lawyers-call-musk-deal-212225159.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter Saga: Is Elon Musk Having the Last Laugh?",
+        "stock": "TWTR",
+        "date": "2022-07-11 17:49:00-05:00",
+        "link": "https://www.thestreet.com/technology/elon-musk-is-having-fun?puc=yahoo&cm_ven=YAHOO"
+    },
+    {
+        "good_news": 0,
+        "title": "Why ChargePoint, QuantumScape, and Blink Charging Stocks Dropped Today",
+        "stock": "CHPT",
+        "date": "2022-07-11 16:09:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-chargepoint-quantumscape-and-blink-dropped/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Expect Wider Swings With This EV Charging Station Company",
+        "stock": "CHPT",
+        "date": "2022-07-11 11:05:00-05:00",
+        "link": "https://aap.thestreet.com/story/16048902/1/expect-wider-swings-with-this-ev-charging-station-company.html"
+    },
+    {
+        "good_news": 0,
+        "title": "ChargePoint welcomes Rick Wilmer as Chief Customer and Operations Officer",
+        "stock": "CHPT",
+        "date": "2022-07-11 08:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/chargepoint-welcomes-rick-wilmer-chief-120000074.html"
+    },
+    {
+        "good_news": 0,
+        "title": "4 Best EV Charging Stocks to Buy in July 2022",
+        "stock": "CHPT",
+        "date": "2022-07-08 06:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/4-best-ev-charging-stocks-103052155.html"
+    },
+    {
+        "good_news": 0,
+        "title": "3 EV Charging Stocks to Buy for Huge Gains in the 2020s",
+        "stock": "CHPT",
+        "date": "2022-07-07 11:53:00-05:00",
+        "link": "https://finance.yahoo.com/news/3-ev-charging-stocks-buy-155330347.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Shares of ChargePoint Holdings Climbed 7% in June",
+        "stock": "CHPT",
+        "date": "2022-07-02 17:13:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/why-shares-of-chargepoint-holdings-climbed-7-in-ju/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "The DeFi Dictionary: Your Guide to Decentralized Finance",
+        "stock": "COIN",
+        "date": "2022-07-11 10:49:00-05:00",
+        "link": "https://finance.yahoo.com/news/defi-dictionary-guide-decentralized-finance-144909586.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Coinbase CEO says company has no risk of bankruptcy",
+        "stock": "COIN",
+        "date": "2022-07-11 10:40:00-05:00",
+        "link": "https://www.marketwatch.com/story/coinbase-ceo-says-company-has-no-risk-of-bankruptcy-11652300235?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Largest cryptocurrencies fall as Dogecoin drops",
+        "stock": "COIN",
+        "date": "2022-07-11 10:00:00-05:00",
+        "link": "https://www.marketwatch.com/story/largest-cryptocurrencies-fall-as-dogecoin-drops-01657548035-32e3d2b52e74?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Stocks to Avoid This Week",
+        "stock": "COIN",
+        "date": "2022-07-11 08:15:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/3-stocks-to-avoid-this-week/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Bitcoin vs. Stablecoins: Whos the Top Contender in the Payment Revolution?",
+        "stock": "COIN",
+        "date": "2022-07-08 15:48:00-05:00",
+        "link": "https://finance.yahoo.com/news/bitcoin-vs-stablecoins-top-contender-194843299.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Wall Street Analysts Predict a 96% Upside in CureVac N.V. (CVAC): Here's What You Should Know",
+        "stock": "CVAC",
+        "date": "2022-07-11 09:55:00-05:00",
+        "link": "https://finance.yahoo.com/news/wall-street-analysts-predict-96-135501125.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Analysts Expect Breakeven For CureVac N.V. (NASDAQ:CVAC) Before Long",
+        "stock": "CVAC",
+        "date": "2022-07-10 08:47:00-05:00",
+        "link": "https://finance.yahoo.com/news/analysts-expect-breakeven-curevac-n-124709121.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Pfizer Dives As CureVac Tees Up A Patent Suit Aimed At Its BioNTech-Partnered Covid Shot",
+        "stock": "CVAC",
+        "date": "2022-07-06 09:47:00-05:00",
+        "link": "https://www.investors.com/news/technology/pfizer-stock-crashes-into-50-day-line-as-curevac-squares-off-with-patent-suit/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "BioNTech looking into taking legal steps against CureVac",
+        "stock": "CVAC",
+        "date": "2022-07-06 09:04:00-05:00",
+        "link": "https://finance.yahoo.com/news/biontech-looking-taking-legal-steps-130408379.html"
+    },
+    {
+        "good_news": 0,
+        "title": "German drugmaker accused of stealing Covid vaccine technology",
+        "stock": "CVAC",
+        "date": "2022-07-05 14:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/german-drugmaker-accused-stealing-covid-184329402.html"
+    },
+    {
+        "good_news": 0,
+        "title": "CureVac Sues BioNTech Over mRNA and Covid Vaccines. Pfizer Stock Isnt Spared.",
+        "stock": "CVAC",
+        "date": "2022-07-05 12:33:00-05:00",
+        "link": "https://www.barrons.com/articles/curevac-biontech-pfizer-covid-sues-51657021553?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "CureVac Files COVID-19 Vaccine Patent Infringement Lawsuit Against BioNTech",
+        "stock": "CVAC",
+        "date": "2022-07-05 09:24:00-05:00",
+        "link": "https://finance.yahoo.com/news/curevac-files-covid-19-vaccine-132412241.html"
+    },
+    {
+        "good_news": 0,
+        "title": "CureVac sues BioNTech over mRNA patents",
+        "stock": "CVAC",
+        "date": "2022-07-05 07:57:00-05:00",
+        "link": "https://www.ft.com/cms/s/84d1cff7-0319-42c8-8170-0bcdee7a5a38,s01=1.html?ftcamp=traffic/partner/feed_headline/us_yahoo/auddev"
+    },
+    {
+        "good_news": 0,
+        "title": "Here are the most popular house styles in Colorado",
+        "stock": "ANGI",
+        "date": "2022-07-08 17:04:00-05:00",
+        "link": "https://www.bizjournals.com/denver/news/2022/07/08/colorado-most-popular-home-styles-ranked.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "Denver tech company raises $125 million to expand operations worldwide",
+        "stock": "ANGI",
+        "date": "2022-07-01 09:09:00-05:00",
+        "link": "https://www.bizjournals.com/denver/news/2022/07/01/denver-tech-company-housecall-pro-capital-raise.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "Angi (NASDAQ:ANGI shareholders incur further losses as stock declines 10% this week, taking three-year losses to 71%",
+        "stock": "ANGI",
+        "date": "2022-06-18 10:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/angi-nasdaq-angi-shareholders-incur-141520278.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Angi Appoints Andrew Russakoff as Chief Financial Officer",
+        "stock": "ANGI",
+        "date": "2022-06-09 16:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/angi-appoints-andrew-russakoff-chief-201500097.html"
+    },
+    {
+        "good_news": 0,
+        "title": "IAC Monthly Metrics Available on Company Website",
+        "stock": "ANGI",
+        "date": "2022-06-09 16:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/iac-monthly-metrics-available-company-201000305.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Angi Inc. Monthly Metrics Available on IAC Website",
+        "stock": "ANGI",
+        "date": "2022-06-09 16:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/angi-inc-monthly-metrics-available-201000776.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Angi to Participate in the 50th Annual J.P. Morgan Global Technology, Media and Communications Conference",
+        "stock": "ANGI",
+        "date": "2022-05-18 17:20:00-05:00",
+        "link": "https://finance.yahoo.com/news/angi-participate-50th-annual-j-212000518.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Angi Says It's Turning the Corner",
+        "stock": "ANGI",
+        "date": "2022-05-13 10:53:00-05:00",
+        "link": "https://www.fool.com/investing/2022/05/13/angi-says-its-turning-the-corner/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Angi Stock Popped Today",
+        "stock": "ANGI",
+        "date": "2022-05-10 15:27:00-05:00",
+        "link": "https://www.fool.com/investing/2022/05/10/why-angi-stock-popped-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "IAC revenue lifted by Dotdash segment",
+        "stock": "ANGI",
+        "date": "2022-05-09 16:57:00-05:00",
+        "link": "https://www.marketwatch.com/story/iac-1q-revenue-soars-lifted-by-dotdash-segment-271652127281?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Uber leak drives down stock, Wynn falls on Macau casino closures, Euro slides",
+        "stock": "DKNG",
+        "date": "2022-07-11 16:01:00-05:00",
+        "link": "https://finance.yahoo.com/video/uber-leak-drives-down-stock-200121462.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Roku, DraftKings, and Beyond Meat Fell Hard Today",
+        "stock": "DKNG",
+        "date": "2022-07-11 15:34:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-roku-draftkings-and-beyond-meat-fell-hard-toda/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Is MGM Stock A Buy As Macau Casinos Shut Down Amid Another Covid Surge?",
+        "stock": "DKNG",
+        "date": "2022-07-11 08:00:00-05:00",
+        "link": "https://www.investors.com/news/mgm-stock-buy-now/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "The 3 Best SPACs to Own in 2022",
+        "stock": "DKNG",
+        "date": "2022-07-08 13:54:00-05:00",
+        "link": "https://finance.yahoo.com/news/3-best-spacs-own-2022-175418905.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Research Roundup: Veterans and Responsible Gaming",
+        "stock": "DKNG",
+        "date": "2022-07-07 11:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/research-roundup-veterans-responsible-gaming-150024917.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Cathie Wood and Steve Cohen Love These 10 Stocks",
+        "stock": "DKNG",
+        "date": "2022-07-07 10:04:00-05:00",
+        "link": "https://finance.yahoo.com/news/cathie-wood-steve-cohen-love-140428023.html"
+    },
+    {
+        "good_news": 0,
+        "title": "2 Growth Stocks to Buy Before a Big Rally",
+        "stock": "DKNG",
+        "date": "2022-07-07 06:40:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/07/2-growth-stocks-to-buy-before-a-big-rally/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Better NFT Stock: DraftKings vs. GameStop",
+        "stock": "DKNG",
+        "date": "2022-07-02 10:45:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/02/better-nft-stock-draftkings-vs-gamestop/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "DraftKings (DKNG) Gains But Lags Market: What You Should Know",
+        "stock": "DKNG",
+        "date": "2022-07-01 18:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/draftkings-dkng-gains-lags-market-220010014.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Shareholders in Farfetch (NYSE:FTCH) have lost 86%, as stock drops 17% this past week",
+        "stock": "FTCH",
+        "date": "2022-07-01 06:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/shareholders-farfetch-nyse-ftch-lost-105028119.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Farfetch Publishes 2021 Environmental, Social and Governance Report",
+        "stock": "FTCH",
+        "date": "2022-06-30 12:02:00-05:00",
+        "link": "https://finance.yahoo.com/news/farfetch-publishes-2021-environmental-social-160200643.html"
+    },
+    {
+        "good_news": 0,
+        "title": "How a Typical Nerd Became a Leading Luxury-Fashion Seller",
+        "stock": "FTCH",
+        "date": "2022-06-25 00:00:00-05:00",
+        "link": "https://www.wsj.com/articles/how-a-typical-nerd-became-a-leading-luxury-fashion-seller-11656129604?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Luxury Brands Start to Take Cryptocurrency Payments",
+        "stock": "FTCH",
+        "date": "2022-06-10 07:26:00-05:00",
+        "link": "https://www.wsj.com/articles/luxury-brands-start-to-take-cryptocurrency-payments-11654860403?mod=itp_wsj"
+    },
+    {
+        "good_news": 0,
+        "title": "Is Farfetch\u00a0(FTCH) a Smart Long-Term Buy?",
+        "stock": "FTCH",
+        "date": "2022-06-09 18:13:00-05:00",
+        "link": "https://finance.yahoo.com/news/farfetch-ftch-smart-long-term-040144887.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Opening Ceremony x Peter Do Is First Collaboration for Farfetch\u00a0Beat",
+        "stock": "FTCH",
+        "date": "2022-06-08 00:01:00-05:00",
+        "link": "https://finance.yahoo.com/news/opening-ceremony-x-peter-first-040123547.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Farfetch Limited Dipped 19.9% Last Month",
+        "stock": "FTCH",
+        "date": "2022-06-02 09:42:00-05:00",
+        "link": "https://www.fool.com/investing/2022/06/02/why-farfetch-limited-dipped-199-last-month/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Farfetch Stock Dived by Almost 8% Today",
+        "stock": "FTCH",
+        "date": "2022-05-31 17:43:00-05:00",
+        "link": "https://www.fool.com/investing/2022/05/31/why-farfetch-stock-dived-by-almost-8-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Weibo Looks To Raise Up To $1.2B Via Syndicated Debt Offering",
+        "stock": "WB",
+        "date": "2022-07-06 15:01:00-05:00",
+        "link": "https://finance.yahoo.com/news/weibo-looks-raise-1-2b-190102186.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Shanghai Data Breach\u00a0Exposes Dangers of Chinas Trove",
+        "stock": "WB",
+        "date": "2022-07-05 11:06:00-05:00",
+        "link": "https://finance.yahoo.com/news/shanghai-data-breach-exposes-dangers-150640833.html"
+    },
+    {
+        "good_news": 0,
+        "title": "The Bumpy Ride Continues For Nio Stock",
+        "stock": "WB",
+        "date": "2022-06-29 07:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/bumpy-ride-continues-nio-stock-110005142.html"
+    },
+    {
+        "good_news": 0,
+        "title": "UPDATE 4-China slashes COVID quarantine time for international travellers",
+        "stock": "WB",
+        "date": "2022-06-28 02:48:00-05:00",
+        "link": "https://finance.yahoo.com/news/1-beijing-shanghai-both-free-064822197.html"
+    },
+    {
+        "good_news": 0,
+        "title": "NetEase Postpones Release Of Game Indefinitely After Politically Controversial Social Media Post",
+        "stock": "WB",
+        "date": "2022-06-21 08:59:00-05:00",
+        "link": "https://finance.yahoo.com/news/netease-postpones-release-game-indefinitely-125918544.html"
+    },
+    {
+        "good_news": 0,
+        "title": "NetEase delays highly anticipated release of Diablo Immortal in big setback for China's No 2 gaming company amid ongoing Weibo ban",
+        "stock": "WB",
+        "date": "2022-06-20 05:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/netease-delays-highly-anticipated-release-093000763.html"
+    },
+    {
+        "good_news": 0,
+        "title": "NetEase's new game Diablo Immortal banned from new posts on Weibo just a week before hotly-anticipated release",
+        "stock": "WB",
+        "date": "2022-06-17 05:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/neteases-game-diablo-immortal-banned-093000895.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Alibaba, Bilibili, and Pinduoduo Are Falling Today",
+        "stock": "BILI",
+        "date": "2022-07-11 16:59:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-alibaba-bilibili-and-pinduoduo-are-falling-tod/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Xiaomi-Backer Snags $3.2 Billion as China Startup Hopes Grow",
+        "stock": "BILI",
+        "date": "2022-07-11 06:49:00-05:00",
+        "link": "https://finance.yahoo.com/news/early-xiaomi-backer-raises-3-030226642.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Qiming Venture Partners Announces Closing of Funds Totaling US$3.2 Billion",
+        "stock": "BILI",
+        "date": "2022-07-10 21:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/qiming-venture-partners-announces-closing-010000679.html"
+    },
+    {
+        "good_news": 0,
+        "title": "HKEX CEO Sees China Giants Moving to Primary H.K. Listing",
+        "stock": "BILI",
+        "date": "2022-07-05 22:26:00-05:00",
+        "link": "https://finance.yahoo.com/news/hkex-ceo-sees-giants-alibaba-000000896.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Chinese short-video market in brutal shakeout as Tencent, Bilibili close smaller apps amid tougher conditions",
+        "stock": "BILI",
+        "date": "2022-07-01 05:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/chinese-short-video-market-brutal-093000917.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Bilibili Inc. Announces Results of Annual General Meeting",
+        "stock": "BILI",
+        "date": "2022-06-30 06:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/bilibili-inc-announces-results-annual-103000670.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Tencent Leads China Tech Losses as Major Backer Plans to Cut Its Stake",
+        "stock": "BILI",
+        "date": "2022-06-28 01:16:00-05:00",
+        "link": "https://finance.yahoo.com/news/tencent-leads-china-tech-losses-035201655.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Bilibili Just Hit Record High Monthly Active Users, but It's Not All Roses",
+        "stock": "BILI",
+        "date": "2022-06-23 10:40:00-05:00",
+        "link": "https://www.fool.com/investing/2022/06/23/bilibili-record-active-users-but-its-not-all-roses/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Bilibili-Backed Virtual YouTuber Management Company ANYCOLOR Goes Public",
+        "stock": "BILI",
+        "date": "2022-06-23 03:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/bilibili-backed-virtual-youtuber-management-074300203.html"
+    },
+    {
+        "good_news": 0,
+        "title": "China tech stocks tumble after Alibaba, Tencent hit with fines",
+        "stock": "MLCO",
+        "date": "2022-07-11 09:49:00-05:00",
+        "link": "https://finance.yahoo.com/video/china-tech-stocks-tumble-alibaba-134912041.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Casino operators take a hit after Macau's weeklong COVID-related shutdown",
+        "stock": "MLCO",
+        "date": "2022-07-11 06:45:00-05:00",
+        "link": "https://www.marketwatch.com/story/casino-operators-take-a-hit-after-macaus-weeklong-covid-related-shutdown-2022-07-11?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Melco Resorts Stock Was a Lousy Bet Today",
+        "stock": "MLCO",
+        "date": "2022-07-06 18:20:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/06/why-melco-resorts-stock-was-a-lousy-bet-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Hong Kongs Floating Jumbo Restaurant Capsizes at Sea",
+        "stock": "MLCO",
+        "date": "2022-06-24 06:08:00-05:00",
+        "link": "https://finance.yahoo.com/news/hong-kong-jumbo-floating-restaurant-060346652.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Hong Kongs Jumbo Mystery Deepens as Restaurant May Be Afloat",
+        "stock": "MLCO",
+        "date": "2022-06-24 04:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/hong-kong-jumbo-mystery-deepens-081505481.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Studio City International Holdings Limited Announces Extension of Gaming Concessions in Macau to December 31, 2022",
+        "stock": "MLCO",
+        "date": "2022-06-23 06:44:00-05:00",
+        "link": "https://finance.yahoo.com/news/studio-city-international-holdings-limited-104400639.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Melco Announces Extension of Macau Gaming\u00a0Subconcession to December 31, 2022",
+        "stock": "MLCO",
+        "date": "2022-06-23 06:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/melco-announces-extension-macau-gaming-104300359.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Calculating The Fair Value Of Melco Resorts & Entertainment Limited (NASDAQ:MLCO)",
+        "stock": "MLCO",
+        "date": "2022-06-06 09:20:00-05:00",
+        "link": "https://finance.yahoo.com/news/calculating-fair-value-melco-resorts-132048841.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Wayfair Stock Jumped 28% This Week",
+        "stock": "W",
+        "date": "2022-07-08 08:19:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/08/why-wayfair-stock-jumped-28-this-week/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Which E-commerce Stock Does Wall Street Currently Favor?",
+        "stock": "W",
+        "date": "2022-07-06 13:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/e-commerce-stock-does-wall-175001988.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Wayfair Stock Was Down by Nearly 30% This Week",
+        "stock": "W",
+        "date": "2022-07-01 09:47:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/01/why-wayfair-stock-was-down-by-nearly-30-this-week/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Nice (NICE) Launches Upgraded CXone, Bolsters Portfolio",
+        "stock": "ZM",
+        "date": "2022-07-11 12:19:00-05:00",
+        "link": "https://finance.yahoo.com/news/nice-nice-launches-upgraded-cxone-161904254.html"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Companies That Might Acquire DocuSign",
+        "stock": "ZM",
+        "date": "2022-07-11 09:11:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/3-companies-that-might-acquire-docusign/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Is Zoom Stock A Buy Or Sell In Post-Pandemic Economy?",
+        "stock": "ZM",
+        "date": "2022-07-11 08:35:00-05:00",
+        "link": "https://www.investors.com/news/technology/zoom-stock-buy-zm-stock-sell/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Zoom Video Stock Fell 41.3% in the First Half of 2022",
+        "stock": "ZM",
+        "date": "2022-07-11 05:15:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-zoom-video-stock-fell-413-in-the-first-half-of/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "We are in a recession: Long-time bull Cathie Wood is warning investors about the big problem in today's economy. Heres 3 stocks she likes right now",
+        "stock": "ZM",
+        "date": "2022-07-10 10:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/recession-long-time-bull-cathie-163000024.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Summer vacations are back for Wall Street and Silicon Valley. It could be their last before a recession.",
+        "stock": "ZM",
+        "date": "2022-07-09 10:14:00-05:00",
+        "link": "https://www.marketwatch.com/story/summer-vacations-are-back-for-wall-street-and-silicon-valley-it-could-be-their-last-before-a-recession-11657376059?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Zoom Video Communications (ZM) Dips More Than Broader Markets: What You Should Know",
+        "stock": "ZM",
+        "date": "2022-07-08 17:50:00-05:00",
+        "link": "https://finance.yahoo.com/news/zoom-video-communications-zm-dips-215009792.html"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Cathie Wood Investments That Could Deliver Superior Returns",
+        "stock": "ZM",
+        "date": "2022-07-07 10:40:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/07/3-cathie-wood-investments-that-could-deliver-super/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap CEO Sonia Syngal steps down amid struggling sales",
+        "stock": "GPS",
+        "date": "2022-07-11 21:36:00-05:00",
+        "link": "https://finance.yahoo.com/news/gap-ceo-sonia-syngal-steps-013606936.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap Stock Slumps as CEO Steps Down",
+        "stock": "GPS",
+        "date": "2022-07-11 19:07:00-05:00",
+        "link": "https://www.barrons.com/articles/gap-ceo-sonia-syngal-51657575641?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap in crisis mode after CEO becomes latest exec to depart struggling retailer",
+        "stock": "GPS",
+        "date": "2022-07-11 18:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/gap-ceo-becomes-latest-exec-to-depart-struggling-retailer-220523825.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap Inc. CEO Sonia Syngal to Step Down, Old Navy Names New CEO",
+        "stock": "GPS",
+        "date": "2022-07-11 17:36:00-05:00",
+        "link": "https://finance.yahoo.com/news/gap-inc-ceo-sonia-syngal-213604487.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap CEO Sonia Syngal to step down; retailer warns of headwinds for Q2",
+        "stock": "GPS",
+        "date": "2022-07-11 17:17:00-05:00",
+        "link": "https://www.marketwatch.com/story/gap-ceo-syngal-to-step-down-11657572352?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap CEO Sonia Syngal to leave company, stock moves down",
+        "stock": "GPS",
+        "date": "2022-07-11 16:59:00-05:00",
+        "link": "https://finance.yahoo.com/video/gap-ceo-sonia-syngal-leave-205937984.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap CEO Syngal exits as margin squeeze deepens",
+        "stock": "GPS",
+        "date": "2022-07-11 16:39:00-05:00",
+        "link": "https://finance.yahoo.com/news/gap-inc-ceo-syngal-step-203933129.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Gap Inc. Announces CEO Sonia Syngal to Step Down and the Appointment of Horacio \"Haio\" Barbeito as President and CEO of Old Navy",
+        "stock": "GPS",
+        "date": "2022-07-11 16:32:00-05:00",
+        "link": "https://finance.yahoo.com/news/gap-inc-announces-ceo-sonia-203200475.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Its Crunch Time for the SPAC Booms First Listings",
+        "stock": "PSTH",
+        "date": "2022-07-12 00:30:00-05:00",
+        "link": "https://www.barrons.com/articles/spac-ipos-liquidations-payouts-51657579223?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Bill Ackman shutting SPAC, will return $4 billion to shareholders",
+        "stock": "PSTH",
+        "date": "2022-07-11 18:59:00-05:00",
+        "link": "https://www.marketwatch.com/story/pershing-square-tontine-holdings-to-cease-operations-return-capital-to-shareholders-271657578414?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Pershing Square Tontine Holdings, Ltd. Will Redeem Its Public Shares and Will Not Consummate an Initial Business Combination",
+        "stock": "PSTH",
+        "date": "2022-07-11 17:45:00-05:00",
+        "link": "https://finance.yahoo.com/news/pershing-square-tontine-holdings-ltd-214500551.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Pershing Square Tontine Holdings, Ltd. Releases Letter to Shareholders",
+        "stock": "PSTH",
+        "date": "2022-07-11 17:45:00-05:00",
+        "link": "https://finance.yahoo.com/news/pershing-square-tontine-holdings-ltd-214500933.html"
+    },
+    {
+        "good_news": 0,
+        "title": "How Many Pershing Square Tontine Holdings, Ltd. (NYSE:PSTH) Shares Do Institutions Own?",
+        "stock": "PSTH",
+        "date": "2022-06-02 10:47:00-05:00",
+        "link": "https://finance.yahoo.com/news/many-pershing-square-tontine-holdings-144728730.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Pershing Square SPARC Holdings, Ltd. Notes the Withdrawal of a New York Stock Exchange Proposed Rule Change",
+        "stock": "PSTH",
+        "date": "2022-04-28 17:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/pershing-square-sparc-holdings-ltd-210000017.html"
+    },
+    {
+        "good_news": 0,
+        "title": "UNIVERSAL MUSIC GROUP BOARD NOMINATES WILLIAM A. ACKMAN, NICOLE AVANT, CYRILLE BOLLOR\u00c9 AND SHERRY LANSING AS DIRECTORS AND PUBLISHES 2021 ANNUAL REPORT AND AGENDA FOR 2022 ANNUAL GENERAL MEETING OF SHAREHOLDERS",
+        "stock": "PSTH",
+        "date": "2022-03-31 13:46:00-05:00",
+        "link": "https://finance.yahoo.com/news/universal-music-group-board-nominates-174600813.html"
+    },
+    {
+        "good_news": 0,
+        "title": "BigSur Wealth Management LLC Buys PayPal Holdings Inc, Vanguard Small Cap Value ETF, Blackstone ...",
+        "stock": "PSTH",
+        "date": "2022-02-07 13:38:00-05:00",
+        "link": "https://finance.yahoo.com/news/bigsur-wealth-management-llc-buys-183802297.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Broad Peak Investment Holdings Ltd. Buys International Game Technology PLC, Pershing Square ...",
+        "stock": "PSTH",
+        "date": "2022-02-04 13:38:00-05:00",
+        "link": "https://finance.yahoo.com/news/broad-peak-investment-holdings-ltd-183812804.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Redmond Asset Management, LLC Buys Canadian Pacific Railway, Mastercard Inc, Trupanion Inc, ...",
+        "stock": "PSTH",
+        "date": "2022-02-04 09:38:00-05:00",
+        "link": "https://finance.yahoo.com/news/redmond-asset-management-llc-buys-143832850.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Alaska Airlines surprises employees with 90,000 miles to travel the globe",
+        "stock": "ALK",
+        "date": "2022-07-11 19:40:00-05:00",
+        "link": "https://finance.yahoo.com/news/alaska-airlines-surprises-employees-90-234000476.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Alaska Air Group (ALK) Dips More Than Broader Markets: What You Should Know",
+        "stock": "ALK",
+        "date": "2022-07-11 18:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/alaska-air-group-alk-dips-221510714.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why cruises are the cheapest way to travel this summer",
+        "stock": "ALK",
+        "date": "2022-07-11 17:12:00-05:00",
+        "link": "https://finance.yahoo.com/video/why-cruises-cheapest-way-travel-211237194.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Alaska Air Group (ALK) Outpaces Stock Market Gains: What You Should Know",
+        "stock": "ALK",
+        "date": "2022-07-05 18:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/alaska-air-group-alk-outpaces-221510096.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Flight disruptions ease, Spirit Airlines postpones Frontier merger vote to July 8",
+        "stock": "ALK",
+        "date": "2022-07-05 11:34:00-05:00",
+        "link": "https://finance.yahoo.com/video/flight-disruptions-ease-spirit-airlines-153411977.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Airline flight cancellations ease after 4th of July travel chaos",
+        "stock": "ALK",
+        "date": "2022-07-05 09:24:00-05:00",
+        "link": "https://finance.yahoo.com/video/airline-flight-cancellations-ease-4th-132425104.html"
+    },
+    {
+        "good_news": 0,
+        "title": "July Fourth Weekend Started With Cancellations And Delays For Air Travelers: WSJ",
+        "stock": "ALK",
+        "date": "2022-07-05 07:53:00-05:00",
+        "link": "https://finance.yahoo.com/news/july-fourth-weekend-started-cancellations-115334989.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Casino Stocks Fall as Macau Shuts Businesses Amid Covid-19 Outbreak",
+        "stock": "WYNN",
+        "date": "2022-07-11 16:28:00-05:00",
+        "link": "https://www.wsj.com/articles/casino-stocks-fall-as-macau-shutters-businesses-amid-covid-19-outbreak-11657565443?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Casino Stocks, Oil Prices Tumble On China Lockdowns, Natural Gas Rallies",
+        "stock": "WYNN",
+        "date": "2022-07-11 16:14:00-05:00",
+        "link": "https://www.investors.com/news/casino-stocks-oil-prices-tumble-on-china-lockdowns/?src=A00220"
+    },
+    {
+        "good_news": 0,
+        "title": "Midday Movers: Twitter, Spirit, Wynn and More",
+        "stock": "WYNN",
+        "date": "2022-07-11 09:13:00-05:00",
+        "link": "https://finance.yahoo.com/news/midday-movers-twitter-spirit-wynn-131312671.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Casino Stocks Plunge As Macau Shuts All Casinos To Curb COVID-19 Spread",
+        "stock": "WYNN",
+        "date": "2022-07-11 07:49:00-05:00",
+        "link": "https://finance.yahoo.com/news/casino-stocks-plunge-macau-shuts-114929434.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Here's Why You Should Retain Wynn Resorts' (WYNN) Stock",
+        "stock": "WYNN",
+        "date": "2022-07-07 10:26:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-retain-wynn-resorts-142602510.html"
+    },
+    {
+        "good_news": 0,
+        "title": "9 China Rebound Stocks to Buy According to Jim Cramer",
+        "stock": "WYNN",
+        "date": "2022-07-04 09:02:00-05:00",
+        "link": "https://finance.yahoo.com/news/9-china-rebound-stocks-buy-130231318.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Casino Stocks Rise After Atlantic City Workers Decide Not to Strike on July Fourth Weekend",
+        "stock": "WYNN",
+        "date": "2022-07-01 10:30:00-05:00",
+        "link": "https://www.barrons.com/articles/casino-stocks-rise-51656685841?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Redfin Stock Was Deep in the Red Today",
+        "stock": "RDFN",
+        "date": "2022-07-11 18:29:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-redfin-stock-was-deep-in-the-red-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Why Redfin Stock Plunged 79% in the First Half of the Year",
+        "stock": "RDFN",
+        "date": "2022-07-11 16:23:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-redfin-stock-plunged-79-in-the-first-half-of-t/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "The housing market has absolutely shifted amid declining home sales: Economist",
+        "stock": "RDFN",
+        "date": "2022-07-11 15:45:00-05:00",
+        "link": "https://finance.yahoo.com/video/housing-market-absolutely-shifted-amid-194528391.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Redfin stock dives after downgrade by long-time bull and downbeat home-buying deals data",
+        "stock": "RDFN",
+        "date": "2022-07-11 13:33:00-05:00",
+        "link": "https://www.marketwatch.com/story/redfin-stock-dives-after-downgrade-by-long-time-bull-downbeat-home-buying-deals-data-11657560353?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Redfin Reports Asking Rents Rise 14% in June, the Smallest Increase Since October",
+        "stock": "RDFN",
+        "date": "2022-07-11 12:43:00-05:00",
+        "link": "https://finance.yahoo.com/news/redfin-reports-asking-rents-rise-164300348.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Redfin stock tumbles after it says housing market deals are falling through at the fastest rate in 2 years",
+        "stock": "RDFN",
+        "date": "2022-07-11 09:59:00-05:00",
+        "link": "https://www.marketwatch.com/story/redfin-stock-tumbles-after-it-says-housing-market-deals-are-falling-through-at-the-fastest-rate-in-2-years-2022-07-11?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Could Investing in Redfin Help Make You a Millionaire?",
+        "stock": "RDFN",
+        "date": "2022-07-11 09:43:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/could-investing-in-redfin-help-make-you-a-milliona/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Home Sales Are Getting Canceled at the Highest Rate Since the Start of the Pandemic",
+        "stock": "RDFN",
+        "date": "2022-07-11 09:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/home-sales-getting-canceled-highest-133000362.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Price reductions in S.F. home sales soar more than 100% year-over-year",
+        "stock": "RDFN",
+        "date": "2022-07-08 17:01:00-05:00",
+        "link": "https://www.bizjournals.com/sanfrancisco/news/2022/07/08/s-f-ouse-hunters-begin-to-thin-out.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "Redfin seeing San Francisco Bay Area housing market slowing fastest in the U.S.",
+        "stock": "RDFN",
+        "date": "2022-07-08 08:14:00-05:00",
+        "link": "https://www.marketwatch.com/story/redfin-seeing-san-francisco-bay-area-housing-market-slowing-fastest-in-the-us-2022-07-08?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Texas Power Grid Holds Up Under Strain of Blistering Heat Wave",
+        "stock": "AAL",
+        "date": "2022-07-11 21:03:00-05:00",
+        "link": "https://finance.yahoo.com/news/texans-asked-conserve-electricity-scorching-053742687.html"
+    },
+    {
+        "good_news": 0,
+        "title": "American Airlines Publishes 2021 Environmental, Social and Governance Report",
+        "stock": "AAL",
+        "date": "2022-07-11 17:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/american-airlines-publishes-2021-environmental-210000025.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why American Airlines Is Losing Altitude Today",
+        "stock": "AAL",
+        "date": "2022-07-11 14:09:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/11/why-american-airlines-is-losing-altitude-today/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Finacity Facilitates a $70 Million Receivables Securitization Program for American Airlines, Inc.",
+        "stock": "AAL",
+        "date": "2022-07-11 09:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/finacity-facilitates-70-million-receivables-130000776.html"
+    },
+    {
+        "good_news": 0,
+        "title": "American Airlines pilots to get triple pay for flights affected by scheduling glitch",
+        "stock": "AAL",
+        "date": "2022-07-07 16:45:00-05:00",
+        "link": "https://www.bizjournals.com/dallas/news/2022/07/07/american-airlines-pilots-pay.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "Forge Announces Completion of Redemption of Public Warrants",
+        "stock": "FRGE",
+        "date": "2022-07-11 21:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/forge-announces-completion-redemption-public-010000691.html"
+    },
+    {
+        "good_news": 0,
+        "title": "The Greenbrier Companies (GBX) Q3 2022 Earnings Call Transcript",
+        "stock": "GBX",
+        "date": "2022-07-11 17:30:00-05:00",
+        "link": "https://www.fool.com/earnings/call-transcripts/2022/07/11/the-greenbrier-companies-gbx-q3-2022-earnings-call/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Greenbrier Companies (GBX) Misses Q3 Earnings Estimates",
+        "stock": "GBX",
+        "date": "2022-07-11 07:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/greenbrier-companies-gbx-misses-q3-111511789.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Greenbrier stock drops as profit misses expectations although revenue beat, as rising costs hurt margins",
+        "stock": "GBX",
+        "date": "2022-07-11 06:18:00-05:00",
+        "link": "https://www.marketwatch.com/story/greenbrier-stock-drops-as-profit-misses-expectations-although-revenue-beat-as-rising-costs-hurt-margins-2022-07-11?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "Greenbrier Reports Third Quarter Results",
+        "stock": "GBX",
+        "date": "2022-07-11 06:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/greenbrier-reports-third-quarter-results-100000901.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Helen of Troy (HELE) Cuts FY 2023 View Despite Q1 Earnings Beat",
+        "stock": "HELE",
+        "date": "2022-07-08 11:20:00-05:00",
+        "link": "https://finance.yahoo.com/news/helen-troy-hele-cuts-fy-152003946.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter v. Musk, Biden tries to protect abortion, Teva under attack: 3 legal stories to watch",
+        "stock": "TEVA",
+        "date": "2022-07-11 15:12:00-05:00",
+        "link": "https://finance.yahoo.com/news/twitter-v-musk-biden-abortion-opioid-lawsuit-3-legal-stories-to-watch-this-week-191215937.html"
+    },
+    {
+        "good_news": 0,
+        "title": "UPDATE 2-Teva lied about opioid role, New York says",
+        "stock": "TEVA",
+        "date": "2022-07-11 09:18:00-05:00",
+        "link": "https://finance.yahoo.com/news/1-tevas-parent-restored-york-131801369.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Herbalife Nutrition Foundation Announces Partnership With The Power of Nutrition and World Bank to Tackle Malnutrition",
+        "stock": "HLF",
+        "date": "2022-07-08 08:25:00-05:00",
+        "link": "https://finance.yahoo.com/news/herbalife-nutrition-foundation-announces-partnership-122507112.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Uber leak shows past underhanded practices, stock declines",
+        "stock": "LYFT",
+        "date": "2022-07-11 09:44:00-05:00",
+        "link": "https://finance.yahoo.com/video/uber-leak-shows-past-underhanded-134402418.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Is Lyft (NASDAQ:LYFT) A Risky Investment?",
+        "stock": "LYFT",
+        "date": "2022-07-11 09:12:00-05:00",
+        "link": "https://finance.yahoo.com/news/lyft-nasdaq-lyft-risky-investment-131257906.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Brookfield Business Partners L.P.\u00a02022 Second Quarter Conference Call and Webcast\u00a0for Investors and Analysts",
+        "stock": "BBU",
+        "date": "2022-07-08 16:39:00-05:00",
+        "link": "https://finance.yahoo.com/news/brookfield-business-partners-l-p-203900338.html"
+    },
+    {
+        "good_news": 0,
+        "title": "The Funded: Startup funding dropped in Q2, but venture firms are continuing to stockpile billions",
+        "stock": "PIPR",
+        "date": "2022-07-08 15:28:00-05:00",
+        "link": "https://www.bizjournals.com/sanjose/news/2022/07/08/q2-startup-funding-dropped-but-vcs-raised-billions.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "How state lotteries transfer wealth out of the poorest communities",
+        "stock": "IGT",
+        "date": "2022-07-11 19:30:00-05:00",
+        "link": "https://www.marketwatch.com/story/how-state-lotteries-transfer-wealth-out-of-the-poorest-communities-01657582217?siteid=yhoof2"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Strong Buy Stocks That Are Too Cheap to Ignore",
+        "stock": "LPRO",
+        "date": "2022-07-10 21:05:00-05:00",
+        "link": "https://finance.yahoo.com/news/3-strong-buy-stocks-too-010545962.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Vail Resorts' top financial executive is stepping down",
+        "stock": "MTN",
+        "date": "2022-07-11 16:50:00-05:00",
+        "link": "https://www.bizjournals.com/denver/news/2022/07/11/vail-resorts-cfo-michael-barken-rob-katz-lynch.html?utm_source=sy&utm_medium=nsyp&utm_campaign=yh"
+    },
+    {
+        "good_news": 0,
+        "title": "Vail Resorts Announces CFO, Michael Barkin, Will Step Down",
+        "stock": "MTN",
+        "date": "2022-07-11 08:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/vail-resorts-announces-cfo-michael-123000385.html"
+    },
+    {
+        "good_news": 0,
+        "title": "3 Dividend Stocks That Are Dirt Cheap Right Now",
+        "stock": "MTN",
+        "date": "2022-07-08 06:27:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/08/3-dividend-stocks-that-are-dirt-cheap-right-now/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "June AMK Report",
+        "stock": "AMK",
+        "date": "2022-07-11 16:15:00-05:00",
+        "link": "https://finance.yahoo.com/news/june-amk-report-201500969.html"
+    },
+    {
+        "good_news": 0,
+        "title": "New Strong Sell Stocks for July 11th",
+        "stock": "AMK",
+        "date": "2022-07-11 07:14:00-05:00",
+        "link": "https://finance.yahoo.com/news/strong-sell-stocks-july-11th-111411725.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Company News for Jul 11, 2022",
+        "stock": "WDFC",
+        "date": "2022-07-11 09:39:00-05:00",
+        "link": "https://finance.yahoo.com/news/company-news-jul-11-2022-133901553.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Here's Why We're Wary Of Buying WD-40's (NASDAQ:WDFC) For Its Upcoming Dividend",
+        "stock": "WDFC",
+        "date": "2022-07-10 08:14:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-were-wary-buying-121431771.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Why WD-40 Company Stock Crashed on Friday",
+        "stock": "WDFC",
+        "date": "2022-07-08 11:44:00-05:00",
+        "link": "https://www.fool.com/investing/2022/07/08/why-wd-40-company-stock-crashed-on-friday/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "WD-40 (WDFC) Q3 2022 Earnings Call Transcript",
+        "stock": "WDFC",
+        "date": "2022-07-08 07:30:00-05:00",
+        "link": "https://www.fool.com/earnings/call-transcripts/2022/07/08/wd-40-wdfc-q3-2022-earnings-call-transcript/?source=eptyholnk0000202&utm_source=yahoo-host&utm_medium=feed&utm_campaign=article"
+    },
+    {
+        "good_news": 0,
+        "title": "Twitter, GameStop and Upstart Fall Premarket; Spirit,  Levi Strauss Rise",
+        "stock": "WDFC",
+        "date": "2022-07-08 03:52:00-05:00",
+        "link": "https://finance.yahoo.com/news/twitter-gamestop-upstart-fall-premarket-075217111.html"
+    },
+    {
+        "good_news": 0,
+        "title": "BrightSphere to Report Financial and Operating Results for the Second Quarter Ended June 30, 2022",
+        "stock": "BSIG",
+        "date": "2022-07-11 08:30:00-05:00",
+        "link": "https://finance.yahoo.com/news/brightsphere-report-financial-operating-results-123000178.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Millicom (Tigo) notice of second quarter 2022 results and video conference",
+        "stock": "TIGO",
+        "date": "2022-07-11 14:23:00-05:00",
+        "link": "https://finance.yahoo.com/news/millicom-tigo-notice-second-quarter-182300407.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Red Rock Resorts Announces Second Quarter 2022 Conference Call and Earnings Release Date",
+        "stock": "RRR",
+        "date": "2022-07-11 20:41:00-05:00",
+        "link": "https://finance.yahoo.com/news/red-rock-resorts-announces-second-004100237.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Here's Why Investors Should Retain Dave & Buster's (PLAY) Stock",
+        "stock": "DAVE",
+        "date": "2022-07-11 10:38:00-05:00",
+        "link": "https://finance.yahoo.com/news/heres-why-investors-retain-dave-143802168.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Impressive Comps Growth Aid Chipotle (CMG), Inflation Hurts",
+        "stock": "DAVE",
+        "date": "2022-07-08 11:16:00-05:00",
+        "link": "https://finance.yahoo.com/news/impressive-comps-growth-aid-chipotle-151603708.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Restaurant Brands (QSR) Banks on Expansion Efforts, Traffic Low",
+        "stock": "DAVE",
+        "date": "2022-07-08 11:14:00-05:00",
+        "link": "https://finance.yahoo.com/news/restaurant-brands-qsr-banks-expansion-151403957.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Is Arcos Dorados (ARCO) a Great Value Stock Right Now?",
+        "stock": "DAVE",
+        "date": "2022-07-08 09:40:00-05:00",
+        "link": "https://finance.yahoo.com/news/arcos-dorados-arco-great-value-134001068.html"
+    },
+    {
+        "good_news": 0,
+        "title": "GOL Announces 2Q22 Investor Update",
+        "stock": "GOL",
+        "date": "2022-07-11 07:52:00-05:00",
+        "link": "https://finance.yahoo.com/news/gol-announces-2q22-investor-115200613.html"
+    },
+    {
+        "good_news": 0,
+        "title": "New Gold Reports Second Quarter Operational Results and Provides Update on 2022 Operational Outlook",
+        "stock": "NGD",
+        "date": "2022-07-11 16:45:00-05:00",
+        "link": "https://finance.yahoo.com/news/gold-reports-second-quarter-operational-204500244.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Angus Gold Commences Summer Drilling on BIF Discoveries, Golden Sky Project, Wawa, Ontario",
+        "stock": "NGD",
+        "date": "2022-07-11 07:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/angus-gold-commences-summer-drilling-110000059.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Himax Technologies, Inc. Schedules Second Quarter 2022 Financial Results Conference Call on Thursday, August 11 at 8:00 AM EDT",
+        "stock": "HIMX",
+        "date": "2022-07-11 05:00:00-05:00",
+        "link": "https://finance.yahoo.com/news/himax-technologies-inc-schedules-second-090000539.html"
+    },
+    {
+        "good_news": 0,
+        "title": "Investors three-year losses continue as Harsco (NYSE:HSC) dips a further 9.4% this week, earnings continue to decline",
+        "stock": "HSC",
+        "date": "2022-07-11 09:10:00-05:00",
+        "link": "https://finance.yahoo.com/news/investors-three-losses-continue-harsco-131054561.html"
     }
 ]
