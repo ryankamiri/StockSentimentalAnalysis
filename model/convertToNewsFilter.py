@@ -5,16 +5,22 @@ from datetime import datetime
 with open("./data/training_data.json", 'r') as f:
     datastore = json.load(f)
 
-stocks = {}
+stocks = []
 
-for data in reversed(datastore):
-    stocks[data["stock"]] = {"good_news": data["good_news"], "date": data["date"]}
+revData = datastore[::-1]
+
+for i, data in enumerate(revData):
+    if i < len(revData) - 1:
+        nextStock = revData[i + 1]["stock"]
+    else:
+        nextStock = None
+    if nextStock != data["stock"]:
+        stocks.append({"ticker": data["stock"], "good_news": data["good_news"], "date": data["date"]})
 
 newData = []
-idx = 0
-for stock, info in stocks.items():
+for i, info in enumerate(stocks):
     date = datetime.strptime(info["date"], "%Y-%m-%d %H:%M:%S%z")
-    headlines = newsfilter.getNews([stock])
+    headlines = newsfilter.getNews([info["ticker"]])
     found = False
     for headline in headlines:
         if headline["date"].date() == date.date():
@@ -22,8 +28,7 @@ for stock, info in stocks.items():
             found = True
         elif found:
             break
-    idx += 1
-    print(f"{idx}/{len(stocks)}")
+    print(f"{i + 1}/{len(stocks)}")
 
 with open("./data/training_data_new.json", "w+", encoding="utf-8") as _file:
     _file.write(json.dumps(newData, indent=4))
