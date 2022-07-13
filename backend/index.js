@@ -28,5 +28,6 @@ mongoose.connect(process.env.MONGO_URI, {useNewUrlParser: true, useUnifiedTopolo
 // Set up routes
 app.use('/api/users', require('./routes/user'));
 app.use('/api/auth', require('./routes/auth'));
+app.use('/api/headlines', require('./routes/headline'));
 
 const server = app.listen(PORT, () => console.log(`The server has started on port: ${PORT}`));

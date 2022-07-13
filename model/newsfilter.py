@@ -12,13 +12,17 @@ def getHeaders():
     }
     return headers
 
-def getNews(symbols=[]):
+def getNews(symbols=[], offset=0, limit=50):
+    if symbols == []:
+        query = SOURCES
+    else:
+        query = f"symbols:{','.join(symbols)} AND {SOURCES}"
     data = {
         "type": "filterArticles",
         "isPublic": True,
-        "queryString": f"symbols:{','.join(symbols)} AND {SOURCES}",
-        "from": 0,
-        "size": 50
+        "queryString": query,
+        "from": offset,
+        "size": limit
     }
 
     headers = getHeaders()
