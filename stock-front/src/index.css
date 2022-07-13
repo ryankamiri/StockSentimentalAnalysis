@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+body {
+  background: #121212;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.loader {
+  position: absolute;
+  margin: auto;
+  top: 40vh;
+}
+
+.page-flexbox-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+
+}
+
+ul.dropdown-content.select-dropdown li span {
+  background: #212121; 
+}
+
+.no-button {
+  background: none;
+  border: none;
+}
+
+nav .nav-wrapper {
+  padding: 0 16px;
+}
+
+nav ul.left {
+  margin-left: 300px;
+}
+
+nav .right {
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+}
+
+nav .right img {
+  max-height: 40px;
+  margin-right: 8px;
+}
+
+#dropdown-profile {
+  width: 150px !important;
+}
+
+.top-rows {
+  margin-top: 80px;
+  /* display: flex; */
+  align-items: center;
+}
+
+.selected-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.btn-xlarge {
+  height: 40px;
+  width: 100%;
+  font-weight: 500;
+}
+
+.items {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 400px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.form-items {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 16px;
+}
+
+.item {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 120px;
+  /* font-size: 0.8em; */
+  font-size: 0.8em;
+  position: relative;
+  background-color: #424242;
+  padding: 4px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.item .top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item .material-icons {
+  color: #ffd54f;
+}
+
+.item .bottom {
+  position: absolute;
+  bottom: 0;
+  left: 4px;
+}
+
+.item .price {
+  display: flex;
+  align-items: center;
+}
+
+.item .time {
+  position:absolute;
+  bottom: 0;
+  right: 4px;
+}
+
+.item .bottom img {
+  height: 12px;
+  margin-right: 4px;
+}
+
+.form-row {
+  margin-top: 50vh;
+  transform: translateY(-50%);
+}
+
+.modal {
+  max-width: 600px;
+}
+
+.navimage {
+  transform: translateY(30%);
+  height: 25px;
+}
+
+.robux {
+  height: 17px;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #00000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2196f3;
+  border-radius: 8px;
+}

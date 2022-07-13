@@ -5,7 +5,8 @@ router.get('/', auth, async (req, res) => {
     try{
         const user = req.user;
         return res.json({
-            username: user.username,
+            firstName: user.firstName,
+            lastName: user.lastName,
             email: user.email
         });
     }
@@ -14,20 +15,20 @@ router.get('/', auth, async (req, res) => {
     }
 });
 
-router.put('/', auth, async (req, res) => {
-    try{
-        const {username} = req.body;
-        const user = req.user;
-        if(username){
-            user.username = username;
-        }
-        await user.save();
-        res.json({status: true});
-    }
-    catch (err) {
-        return res.status(500).json({msg: err.message});
-    }
-});
+// router.put('/', auth, async (req, res) => {
+//     try{
+//         const {email} = req.body;
+//         const user = req.user;
+//         if(email){
+//             user.email = email;
+//         }
+//         await user.save();
+//         res.json({status: true});
+//     }
+//     catch (err) {
+//         return res.status(500).json({msg: err.message});
+//     }
+// });
 
 router.delete('/', auth, async (req, res) => {
     await User.findByIdAndDelete(req.user._id);

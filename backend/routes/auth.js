@@ -7,10 +7,10 @@ const User = require('../models/user.model');
 
 router.post('/register', async (req, res) => {
     try{
-        const {username, email, password, passwordCheck} = req.body;
+        const {email, password, passwordCheck, firstName, lastName} = req.body;
         // Validate
 
-        if(!username || !email || !password || !passwordCheck)
+        if(!email || !password || !passwordCheck || !firstName || !lastName)
             return res.status(400).json({msg: "Not all fields have been entered."});
         if (password.length < 8)
             return res.status(400).json({msg: "The password needs to be at least 8 characters long."});
@@ -28,7 +28,8 @@ router.post('/register', async (req, res) => {
 
         const newUser = new User({
             email,
-            username,
+            firstName,
+            lastName,
             password: passwordHash,
             tokens: [token]
         });
