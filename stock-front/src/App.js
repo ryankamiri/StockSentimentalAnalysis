@@ -14,7 +14,6 @@ import Login from './components/auth/login';
 import Settings from './components/site/settings';
 import News from './components/site/news';
 import Navbar from './components/site/navbar';
-import Footer from './components/site/footer';
 
 //Import css
 import './index.css';
@@ -89,7 +88,6 @@ export default function App() {
 
             <Route path="*" element={<Error404 />} />
           </Routes>
-          <Footer />
         </UserContext.Provider>
       </BrowserRouter>
     ) : (

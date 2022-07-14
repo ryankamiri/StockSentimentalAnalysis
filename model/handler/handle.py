@@ -64,7 +64,7 @@ while True:
     toPredictInfo = []
     for headline in headlines:
         exists = db.headlines.find_one({"url": headline["link"]})
-        if not exists and len(headline["ticker"]) > 0:
+        if not exists and len(headline["ticker"]) > 0 and headline["ticker"][0] != "":
             toPredictInfo.append(headline)
             toPredictHeadlines.append(headline["title"])
     

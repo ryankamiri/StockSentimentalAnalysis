@@ -10,14 +10,16 @@ router.get('/', auth, async (req, res) => {
         if(!offset)
             offset = 0
         if(!limit)
-            limit = 0
+            limit = MAXLIMIT
         else if(limit > MAXLIMIT)
             limit = MAXLIMIT
         const headlines = await Headline.find().sort({date: 'descending'}).skip(offset).limit(limit);
+        const total = await Headline.count()
         return res.json({
             "headlines": headlines,
             "count": headlines.length,
-            "total": await Headline.count()
+            "total": total,
+            "lastPage": total - offset < MAXLIMIT
         })
     }
     catch(err){
