@@ -19,10 +19,13 @@ router.get('/', auth, async (req, res) => {
 
 router.put('/', auth, async (req, res) => {
     try{
-        const {phoneNumber, notificationTarget} = req.body;
+        let {phoneNumber, notificationTarget} = req.body;
         const user = req.user;
         if(notificationTarget && notificationTarget < 50){
             return res.status(400).json({msg: "Notification Target must be greater than 50%."})
+        }
+        else if(!notificationTarget){
+            notificationTarget = null;
         }
         user.phoneNumber = phoneNumber;
         user.notificationTarget = notificationTarget;

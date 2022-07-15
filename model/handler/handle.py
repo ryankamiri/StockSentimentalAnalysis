@@ -98,11 +98,11 @@ while True:
     #Handle notifcations
     messagesSent = 0
     for headline in newHeadlines:
-        notifyUsers = db.users.find({"phoneNumber": {"$ne":None}, "notificationTarget": {"$lte": headline["sentiment"]}})
+        notifyUsers = db.users.find({"phoneNumber": {"$ne": None}, "$and": [{"notificationTarget": {"$ne": None}}, {"notificationTarget": {"$lte": headline['sentiment']}}]})
         for user in notifyUsers:
             #Text users
             phoneNumber = str(int(user["phoneNumber"]))
-            twilio.messages.create(body=f"NEWS ALERT\n{headline['headline']}\nStocks: {','.join(headline['stocks'])}\nConfidence: {round(headline['sentiment'] * 100, 1)}", from_=os.getenv("TWILIO_NUMBER"), to=phoneNumber)
+            twilio.messages.create(body=f"NEWS ALERT\n{headline['headline']}\nStocks: {','.join(headline['stocks'])}\nConfidence: {round(headline['sentiment'] * 100, 1)}%", from_=os.getenv("TWILIO_NUMBER"), to=phoneNumber)
             messagesSent += 1
 
     #Wait 1 minute
