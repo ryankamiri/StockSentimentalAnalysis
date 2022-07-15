@@ -26,10 +26,10 @@ export default function Login() {
                 user: userRes.data,
             });
             sendToast("Successfully Logged In!", "success");
-            navigate('/');
             M.Dropdown.init(document.querySelector(".dropdown-trigger"), {
                 coverTrigger: false,
             });
+            navigate('/');
         }
         catch (err) {
             if(err.response.data.msg){

@@ -18,7 +18,6 @@ export default function News() {
             const headlinesRes = await Axios.get(process.env.REACT_APP_BACKEND_DOMAIN + "/api/headlines?offset=" + offset, {headers: {"authorization": userData.token}})
             
             setLastPage(headlinesRes.data.lastPage);
-            
             setHeadlines(currentHeadlines => {
                 const temp = [...currentHeadlines]
                 let newHeadlines = false
@@ -56,7 +55,7 @@ export default function News() {
     useEffect(() => {
         let loadingMore = false
         const handleScroll = (e) => {
-            if(!loadingMore && !lastPage && window.innerHeight + e.target.documentElement.scrollTop + (e.target.documentElement.scrollHeight * .25) + 1 >= e.target.documentElement.scrollHeight){
+            if(!loadingMore && !lastPage && window.innerHeight + e.target.documentElement.scrollTop + (e.target.documentElement.scrollHeight * .10) + 1 >= e.target.documentElement.scrollHeight){
                 loadingMore = true
                 getHeadlines(false, "post", headlines.length);
             }
@@ -92,7 +91,7 @@ export default function News() {
                     <thead>
                     <tr>
                         <th>Headline</th>
-                        <th>Analysis</th>
+                        <th>Confidence</th>
                         <th>Stocks</th>
                         <th>Date</th>
                         <th>Article Link</th>
@@ -104,7 +103,7 @@ export default function News() {
                             return (
                                 <tr key={headline._id}>
                                     <td>{headline.headline}</td>
-                                    <td>{headline.sentiment}</td>
+                                    <td>{(headline.sentiment * 100).toFixed(1)}%</td>
                                     <td>{headline.stocks.toString()}</td>
                                     <td>{parseDate(headline.date)}</td>
                                     <td><a className="btn waves-effect waves-light blue" href={headline.url} target="_blank" rel="noreferrer">View Article</a></td>

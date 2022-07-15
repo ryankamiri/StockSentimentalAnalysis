@@ -25,6 +25,17 @@ const userSchema = new Schema({
         required: true,
         minlength: 8,
     },
+    phoneNumber: {
+        type: Number,
+        required: false,
+        length: 11,
+        default: null
+    },
+    notificationTarget: {
+        type: Number,
+        required: false,
+        default: null
+    },
     tokens: {
         type: Array,
         sparse: true,

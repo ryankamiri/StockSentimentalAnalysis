@@ -5,9 +5,9 @@ import json
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
+from twilio.rest import Client
 from dotenv import load_dotenv
 import time
-import numpy as np
 import sys
 import os.path
 sys.path.append(
@@ -16,6 +16,10 @@ sys.path.append(
 import newsfilter
 
 load_dotenv()
+
+account_sid = os.getenv('TWILIO_SID')
+auth_token = os.getenv('TWILIO_TOKEN')
+twilio = Client(account_sid, auth_token)
 
 client = MongoClient(os.getenv('MONGO_URI'))
 db=client.StockProject
@@ -89,7 +93,18 @@ while True:
         #db.headlines.insert_one(data)
         print(f'Added new headline {info["title"]}')
     db.headlines.insert_many(newHeadlines)
-    
+    print(f"Done adding {len(toPredictInfo)} new headlines, Handeling notifications.")
+
+    #Handle notifcations
+    messagesSent = 0
+    for headline in newHeadlines:
+        notifyUsers = db.users.find({"phoneNumber": {"$ne":None}, "notificationTarget": {"$lte": headline["sentiment"]}})
+        for user in notifyUsers:
+            #Text users
+            phoneNumber = str(int(user["phoneNumber"]))
+            twilio.messages.create(body=f"NEWS ALERT\n{headline['headline']}\nStocks: {','.join(headline['stocks'])}\nConfidence: {round(headline['sentiment'] * 100, 1)}", from_=os.getenv("TWILIO_NUMBER"), to=phoneNumber)
+            messagesSent += 1
+
     #Wait 1 minute
-    print(f"Done adding {len(toPredictInfo)} new headlines, Waiting 1 minute.")
+    print(f"Sent {messagesSent} SMS messages, Waiting 1 minute.")
     time.sleep(60)

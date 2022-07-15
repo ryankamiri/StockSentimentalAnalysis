@@ -55,11 +55,14 @@ export default function Authoptions() {
                     <li className="hide-on-large-only">
                         <span>{userData.user.firstName}</span>
                     </li>
+                    <li>
+                        <Link to='/settings'><i className="material-icons">settings</i>Settings</Link>
+                    </li>
                     <li className="divider" tabIndex="-1"></li>
                     <li>
-                        <span className="clickable" onClick={logout}>
+                        <a href="/#" onClick={logout}>
                             <i className="material-icons red-text">power_settings_new</i>Logout
-                        </span>
+                        </a>
                     </li>
                     </ul>
                 </>
