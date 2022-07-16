@@ -1,6 +1,7 @@
 import json
 import newsfilter
 from datetime import datetime
+from pytz import timezone
 
 with open("./data/training_data.json", 'r') as f:
     datastore = json.load(f)
@@ -21,10 +22,13 @@ newData = []
 for i, info in enumerate(stocks):
     date = datetime.strptime(info["date"], "%Y-%m-%d %H:%M:%S%z")
     headlines = newsfilter.getNews([info["ticker"]])
+    preMarketStart = datetime(date.year, date.month, date.day, 4, 0, 0, tzinfo=timezone("US/Eastern"))
+    preMarketEnd = datetime(date.year, date.month, date.day, 9, 30, 0, tzinfo=timezone("US/Eastern"))
+    headlines = newsfilter.getNews([info["ticker"]])
     found = False
     for headline in headlines:
-        if headline["date"].date() == date.date():
-            newData.append({"good_news": info["good_news"], "title": headline["title"], "stock": headline["ticker"][0], "date": str(headline["date"]), "link": headline["link"]})
+        if preMarketStart <= headline["date"] <= preMarketEnd:
+            newData.append({"good_news": info["good_news"], "title": headline["title"], "stock": headline["ticker"], "date": str(headline["date"]), "link": headline["link"]})
             found = True
         elif found:
             break

@@ -73,13 +73,14 @@ newData = []
 
 for i, info in enumerate(stocks):
     date = info["date"]
-    yesterday = date - timedelta(days=1)
-    marketEnd = datetime(yesterday.year, yesterday.month, yesterday.day, 16, 0, 0, tzinfo=timezone("US/Eastern"))
+    preMarketStart = datetime(date.year, date.month, date.day, 4, 0, 0, tzinfo=timezone("US/Eastern"))
+    # yesterday = date - timedelta(days=1)
+    # marketEnd = datetime(yesterday.year, yesterday.month, yesterday.day, 16, 0, 0, tzinfo=timezone("US/Eastern"))
     preMarketEnd = datetime(date.year, date.month, date.day, 9, 30, 0, tzinfo=timezone("US/Eastern"))
     headlines = newsfilter.getNews([info["ticker"]])
     found = False
     for headline in headlines:
-        if marketEnd <= headline["date"] <= preMarketEnd:
+        if preMarketStart <= headline["date"] <= preMarketEnd:
             newData.append({"good_news": info["good_news"], "title": headline["title"], "stock": headline["ticker"], "date": str(headline["date"]), "link": headline["link"]})
             found = True
         elif found:

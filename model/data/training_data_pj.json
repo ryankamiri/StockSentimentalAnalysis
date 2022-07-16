@@ -1,6 +1,69 @@
 [
     {
         "good_news": 1,
+        "title": "Walmart to Begin Selling Biomerica's Aware\u00ae Breast Self Exam",
+        "stock": [
+            "BMRA"
+        ],
+        "date": "2022-07-14 12:19:00+00:00",
+        "link": "https://newsfilter.io/articles/walmart-to-begin-selling-biomericas-aware-breast-self-exam-e2d4dc21c248b0181656d775b866d3e9"
+    },
+    {
+        "good_news": 1,
+        "title": "U.S. ARMY SELECTED CANOO'S MULTI-PURPOSE PLATFORM FOR ANALYSIS & DEMONSTRATION",
+        "stock": [
+            "GOEV"
+        ],
+        "date": "2022-07-14 13:00:00+00:00",
+        "link": "https://newsfilter.io/articles/us-army-selected-canoos-multi-purpose-platform-for-analysis--demonstration-4f0dfc552300fca873e7bd893b538a2a"
+    },
+    {
+        "good_news": 1,
+        "title": "SC TO-C Form - Written communication relating to an issuer or third party - Theravance Biopharma, Inc. (0001583107) (Subject)",
+        "stock": [
+            "TBPH"
+        ],
+        "date": "2022-07-14 06:02:07-04:00",
+        "link": "https://newsfilter.io/articles/sc-to-c-form---written-communication-relating-to-an-issuer-or-third-party---theravance-biopharma-inc-2dc147363c2cc7d106b9450efac89f5c"
+    },
+    {
+        "good_news": 1,
+        "title": "8-K Form - Current report, items 7.01 and 9.01 - Clene Inc. (0001822791) (Filer)",
+        "stock": [
+            "CLNN"
+        ],
+        "date": "2022-07-14 07:20:43-04:00",
+        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-701-and-901---clene-inc-0001822791-filer-97e939ae2fd20fa5939432bb8f2e05d7"
+    },
+    {
+        "good_news": 1,
+        "title": "Clene Reports Significantly Decreased Mortality in RESCUE-ALS Long-Term Open Label Extension Trial",
+        "stock": [
+            "CLNN"
+        ],
+        "date": "2022-07-14 11:00:00+00:00",
+        "link": "https://newsfilter.io/articles/clene-reports-significantly-decreased-mortality-in-rescue-als-long-term-open-label-extension-trial-89cb9e754675f2612f75927d1c1d8ed1"
+    },
+    {
+        "good_news": 1,
+        "title": "SC TO-C Form - Written communication relating to an issuer or third party - Theravance Biopharma, Inc. (0001583107) (Subject)",
+        "stock": [
+            "TBPH"
+        ],
+        "date": "2022-07-14 06:02:07-04:00",
+        "link": "https://newsfilter.io/articles/sc-to-c-form---written-communication-relating-to-an-issuer-or-third-party---theravance-biopharma-inc-2dc147363c2cc7d106b9450efac89f5c"
+    },
+    {
+        "good_news": 1,
+        "title": "Vivos Therapeutics Announces Multiple Regulatory Clearances in Australia for Its Entire Line of Oral Appliances",
+        "stock": [
+            "VVOS"
+        ],
+        "date": "2022-07-14 12:00:00+00:00",
+        "link": "https://newsfilter.io/articles/vivos-therapeutics-announces-multiple-regulatory-clearances-in-australia-for-its-entire-line-of-oral-27b6c1be9628d3ad7003cb7260a1ce1e"
+    },
+    {
+        "good_news": 1,
         "title": "LJPC Stock Alert: Halper Sadeh LLP Is Investigating Whether the Sale of La Jolla Pharmaceutical Company Is Fair to Shareholders",
         "stock": [
             "LJPC"
@@ -47,15 +110,6 @@
     },
     {
         "good_news": 1,
-        "title": "Pliant Therapeutics Announces Positive Safety and Efficacy Data from Phase 2a INTEGRIS-IPF Clinical Trial of PLN-74809 in Patients with Idiopathic Pulmonary Fibrosis",
-        "stock": [
-            "PLRX"
-        ],
-        "date": "2022-07-10 22:10:21+00:00",
-        "link": "https://newsfilter.io/articles/pliant-therapeutics-announces-positive-safety-and-efficacy-data-from-phase-2a-integris-ipf-clinical--0327b6deb8c57b0789b36e680e1d3142"
-    },
-    {
-        "good_news": 1,
         "title": "8-K Form - Current report, items 8.01 and 9.01 - Iterum Therapeutics plc (0001659323) (Filer)",
         "stock": [
             "ITRM"
@@ -71,15 +125,6 @@
         ],
         "date": "2022-07-11 11:30:00+00:00",
         "link": "https://newsfilter.io/articles/iterum-therapeutics-announces-special-protocol-assessment-spa-agreement-with-the-fda-62936db8ba8f2115f61f3392b89d5f3e"
-    },
-    {
-        "good_news": 1,
-        "title": "Nyxoah Receives FDA IDE Approval to Initiate the ACCCESS Study of Genio\u00ae in Complete Concentric Collapse Patients",
-        "stock": [
-            "NYXH"
-        ],
-        "date": "2022-07-11 06:00:00+00:00",
-        "link": "https://newsfilter.io/articles/nyxoah-receives-fda-ide-approval-to-initiate-the-acccess-study-of-genio-in-complete-concentric-colla-d7c9c9fcb399000510c784e714de23d1"
     },
     {
         "good_news": 1,
@@ -139,15 +184,6 @@
     },
     {
         "good_news": 1,
-        "title": "8-K Form - Current report, items 1.01 and 9.01 - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
-        "stock": [
-            "AREB"
-        ],
-        "date": "2022-07-06 17:22:04-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-101-and-901---american-rebel-holdings-inc-0001648087-filer-607d7b208512537a22bf2ae1d216076e"
-    },
-    {
-        "good_news": 1,
         "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - Inspira Technologies OXY B.H.N. Ltd (0001837493) (Filer)",
         "stock": [
             "IINN"
@@ -199,24 +235,6 @@
         ],
         "date": "2022-07-06 12:30:00+00:00",
         "link": "https://newsfilter.io/articles/inspira-technologies-develops-a-non-invasive-blood-sensor-designed-to-alert-real-time-change-in-pati-b23ad508c25f1e14a3ac80f788f5daab"
-    },
-    {
-        "good_news": 1,
-        "title": "8-K Form - Current report, items 1.01, 3.02, and 9.01 - SCWorx Corp. (0001674227) (Filer)",
-        "stock": [
-            "WORX"
-        ],
-        "date": "2022-07-05 17:15:39-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-101-302-and-901---scworx-corp-0001674227-filer-57b41d38eb88aae0091e244458d9196b"
-    },
-    {
-        "good_news": 1,
-        "title": "SCWorx Announces Common Stock Purchase Agreement with Institutional Investor",
-        "stock": [
-            "WORX"
-        ],
-        "date": "2022-07-05 21:14:34+00:00",
-        "link": "https://newsfilter.io/articles/scworx-announces-common-stock-purchase-agreement-with-institutional-investor-72eb7be92bb9adb9f9166e67406c636b"
     },
     {
         "good_news": 1,
@@ -473,24 +491,6 @@
     },
     {
         "good_news": 1,
-        "title": "EFFECT Form - Notice of Effectiveness - Panbela Therapeutics, Inc. (0001029125) (Filer)",
-        "stock": [
-            "PBLA"
-        ],
-        "date": "2022-06-27 00:15:20-04:00",
-        "link": "https://newsfilter.io/articles/effect-form---notice-of-effectiveness---panbela-therapeutics-inc-0001029125-filer-6ff5b0323849a6b8b20d6ac1d1ec413b"
-    },
-    {
-        "good_news": 1,
-        "title": "EFFECT Form - Notice of Effectiveness - Panbela Therapeutics, Inc. (0001029125) (Filer)",
-        "stock": [
-            "PBLA"
-        ],
-        "date": "2022-06-27 00:15:17-04:00",
-        "link": "https://newsfilter.io/articles/effect-form---notice-of-effectiveness---panbela-therapeutics-inc-0001029125-filer-1b6c52aa1067cd2630875386afd80169"
-    },
-    {
-        "good_news": 1,
         "title": "SC14D9C Form - Written communication relating to third party tender offer - F-star Therapeutics, Inc. (0001566373) (Subject)",
         "stock": [
             "FSTX"
@@ -518,75 +518,12 @@
     },
     {
         "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:15:17-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-0e4c6b420366cf267176748f16fc36b6"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:14:42-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-b5259aa79e260ff38258ff488a3b1f9c"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:13:46-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-1188f6fa8b7c8025f9f9698b1d09f485"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:12:59-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-9f0725d1b91dad88ecc322315a8aea5a"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:11:42-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-03b7a51ab3dc3b22055553cd3579aeda"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - F-star Therapeutics, Inc. (0001566373) (Issuer)",
-        "stock": [
-            "FSTX"
-        ],
-        "date": "2022-06-22 17:06:49-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---f-star-therapeutics-inc-000156-e88ed7663102134c1b16d1f4b940b205"
-    },
-    {
-        "good_news": 1,
         "title": "Smart for Life Ramps Up Manufacturing of Milk Dust Lactation Products During Baby Formula Scarcity",
         "stock": [
             "SMFL"
         ],
         "date": "2022-06-23 12:30:00+00:00",
         "link": "https://newsfilter.io/articles/smart-for-life-ramps-up-manufacturing-of-milk-dust-lactation-products-during-baby-formula-scarcity-14cc574b116e7405f36172129a43f5b7"
-    },
-    {
-        "good_news": 1,
-        "title": "EFFECT Form - Notice of Effectiveness - SMART FOR LIFE, INC. (0001851860) (Filer)",
-        "stock": [
-            "SMFL"
-        ],
-        "date": "2022-06-23 00:15:14-04:00",
-        "link": "https://newsfilter.io/articles/effect-form---notice-of-effectiveness---smart-for-life-inc-0001851860-filer-67cbeda4db198fb155b0ac45b84cbf88"
     },
     {
         "good_news": 1,
@@ -614,24 +551,6 @@
         ],
         "date": "2022-06-23 06:07:03-04:00",
         "link": "https://newsfilter.io/articles/6-k-form---report-of-foreign-issuer-rules-13a-16-and-15d-16---alvotech-0001898416-filer-d4d64da90d0baaa6c59ab36b69a43dbf"
-    },
-    {
-        "good_news": 1,
-        "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - Alvotech (0001898416) (Filer)",
-        "stock": [
-            "ALVO"
-        ],
-        "date": "2022-06-22 20:00:30-04:00",
-        "link": "https://newsfilter.io/articles/6-k-form---report-of-foreign-issuer-rules-13a-16-and-15d-16---alvotech-0001898416-filer-289d12fec4ccc1e8ed7033b5987f662a"
-    },
-    {
-        "good_news": 1,
-        "title": "Alvotech Debuts on NASDAQ First North Growth Market Becoming First Dual-Listed Icelandic Company in United States and Iceland",
-        "stock": [
-            "ALVO"
-        ],
-        "date": "2022-06-22 22:56:00+00:00",
-        "link": "https://newsfilter.io/articles/alvotech-debuts-on-nasdaq-first-north-growth-market-becoming-first-dual-listed-icelandic-company-in--7db1d6ce4efaae6266561ba40c232c36"
     },
     {
         "good_news": 1,
@@ -716,15 +635,6 @@
         "link": "https://newsfilter.io/articles/6-k-form---report-of-foreign-issuer-rules-13a-16-and-15d-16---addex-therapeutics-ltd-0001574232-file-9a7ea4dc704811ccd156bf816826e7eb"
     },
     {
-        "good_news": 0,
-        "title": "Addex Terminates Dipraglurant Phase 2b/3 Study in Patients with Dyskinesia Associated with Parkinson's Disease due to Slow Recruitment Rate",
-        "stock": [
-            "ADXN"
-        ],
-        "date": "2022-06-17 05:00:00+00:00",
-        "link": "https://newsfilter.io/articles/addex-terminates-dipraglurant-phase-2b3-study-in-patients-with-dyskinesia-associated-with-parkinsons-d2cbd6d9658ec155d02586d66d15fabf"
-    },
-    {
         "good_news": 1,
         "title": "Sonim Receives Additional $6.4 Million in Initial Stocking Orders from US and Canadian Carriers",
         "stock": [
@@ -735,30 +645,12 @@
     },
     {
         "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - SONIM TECHNOLOGIES INC (0001178697) (Issuer)",
-        "stock": [
-            "SONM"
-        ],
-        "date": "2022-06-13 17:38:20-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---sonim-technologies-inc-0001178-3a8799c1a00f018dfa1dd5564dd8be27"
-    },
-    {
-        "good_news": 1,
         "title": "Qudian Inc. Announces up to US$200 Million Share Repurchase Program",
         "stock": [
             "QD"
         ],
         "date": "2022-06-14 09:00:00+00:00",
         "link": "https://newsfilter.io/articles/qudian-inc-announces-up-to-us200-million-share-repurchase-program-7e96ec83214132000ffa2954e8901998"
-    },
-    {
-        "good_news": 1,
-        "title": "EFFECT Form - Notice of Effectiveness - Embark Technology, Inc. (0001827980) (Filer)",
-        "stock": [
-            "EMBK"
-        ],
-        "date": "2022-06-14 00:15:08-04:00",
-        "link": "https://newsfilter.io/articles/effect-form---notice-of-effectiveness---embark-technology-inc-0001827980-filer-79ace7cb25c9a8d23cee026647cec3ba"
     },
     {
         "good_news": 1,
@@ -777,15 +669,6 @@
         ],
         "date": "2022-06-13 06:24:06-04:00",
         "link": "https://newsfilter.io/articles/8-k-form---current-report-items-801-and-901---day-one-biopharmaceuticals-inc-0001845337-filer-735103fc2341fabdc756500a49328815"
-    },
-    {
-        "good_news": 1,
-        "title": "Day One Announces Positive Initial Data from Pivotal FIREFLY-1 Trial of Tovorafenib (DAY101) in Relapsed Pediatric Low-Grade Glioma",
-        "stock": [
-            "DAWN"
-        ],
-        "date": "2022-06-12 21:00:00+00:00",
-        "link": "https://newsfilter.io/articles/day-one-announces-positive-initial-data-from-pivotal-firefly-1-trial-of-tovorafenib-day101-in-relaps-8ebb4c17a5f87c40e21808ca5c476d26"
     },
     {
         "good_news": 1,
@@ -823,24 +706,6 @@
         ],
         "date": "2022-06-13 10:30:00+00:00",
         "link": "https://newsfilter.io/articles/tlc-announces-tlc599-agreement-with-endo-0026663bb52e8154c9ce88b34507c881"
-    },
-    {
-        "good_news": 1,
-        "title": "8-K Form - Current report, items 1.01, 7.01, and 9.01 - REGIS CORP (0000716643) (Filer)",
-        "stock": [
-            "RGS"
-        ],
-        "date": "2022-06-09 20:36:34-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-101-701-and-901---regis-corp-0000716643-filer-1e59cbf9c6f95eb4002e7ed252425a89"
-    },
-    {
-        "good_news": 1,
-        "title": "Regis Corporation, a Leader in the Haircare Industry, Partners With Zenoti for Its Salon Software Solution Across All Brands, 600+ Franchise Owners, and 5,000+ Locations",
-        "stock": [
-            "RGS"
-        ],
-        "date": "2022-06-09 21:00:00+00:00",
-        "link": "https://newsfilter.io/articles/regis-corporation-a-leader-in-the-haircare-industry-partners-with-zenoti-for-its-salon-software-solu-b60c75844110cafaa0187426ebcb913a"
     },
     {
         "good_news": 1,
@@ -913,69 +778,6 @@
         ],
         "date": "2022-06-10 11:00:00+00:00",
         "link": "https://newsfilter.io/articles/cogent-biosciences-announces-positive-initial-clinical-data-from-ongoing-phase-2-apex-trial-evaluati-aad7200eed66f54cffaf4583deff0c78"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:13:22-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-52374b32bba3f9f04d9291bd4ab9ac47"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:10:20-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-d7e05d55756b70e118c469559ea9d68b"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:09:20-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-712cea7dd623c9aa61fa9285d73933ce"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:09:13-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-a9507eea4f1a38ccedc6cd58fbdfe131"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:08:01-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-7e0875c8dcd913fa564b925fbf012ff0"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Cogent Biosciences, Inc. (0001622229) (Issuer)",
-        "stock": [
-            "COGT"
-        ],
-        "date": "2022-06-09 17:07:14-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---cogent-biosciences-inc-0001622-6b780041ba371ce0a17bd42b1dbe0907"
-    },
-    {
-        "good_news": 1,
-        "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - CYBIN INC. (0001833141) (Filer)",
-        "stock": [
-            "CYBN"
-        ],
-        "date": "2022-06-09 17:07:44-04:00",
-        "link": "https://newsfilter.io/articles/6-k-form---report-of-foreign-issuer-rules-13a-16-and-15d-16---cybin-inc-0001833141-filer-8b8ec5066261c45291c9a2c9dafdb1b0"
     },
     {
         "good_news": 1,
@@ -1187,15 +989,6 @@
         ],
         "date": "2022-06-01 11:05:00+00:00",
         "link": "https://newsfilter.io/articles/helius-medical-technologies-inc-announces-launch-of-patient-therapy-access-program-for-pons-266fdf71f1c8fae1a2745f80872a14f7"
-    },
-    {
-        "good_news": 1,
-        "title": "S-8 Form - Securities to be offered to employees in employee benefit plans - HELIUS MEDICAL TECHNOLOGIES, INC. (0001610853) (Filer)",
-        "stock": [
-            "HSDT"
-        ],
-        "date": "2022-05-31 17:00:57-04:00",
-        "link": "https://newsfilter.io/articles/s-8-form---securities-to-be-offered-to-employees-in-employee-benefit-plans---helius-medical-technolo-6f8c8d648b25014ae9014b54dc734f09"
     },
     {
         "good_news": 1,
@@ -1586,15 +1379,6 @@
     },
     {
         "good_news": 1,
-        "title": "Kala Announces Entry into Definitive Agreement to Sell EYSUVIS\u00ae and INVELTYS\u00ae to Alcon Inc.",
-        "stock": [
-            "KALA"
-        ],
-        "date": "2022-05-23 04:01:00+00:00",
-        "link": "https://newsfilter.io/articles/kala-announces-entry-into-definitive-agreement-to-sell-eysuvis-and-inveltys-to-alcon-inc-f9fade5751b5bf41e4979e7ad5a2c350"
-    },
-    {
-        "good_news": 1,
         "title": "NeuroMetrix Reports that Quell\u00ae Wearable Neuromodulation Device has Received FDA De Novo Authorization as First Non-Pharmacological Treatment for Fibromyalgia",
         "stock": [
             "NURO"
@@ -1637,24 +1421,6 @@
         ],
         "date": "2022-05-19 12:00:00+00:00",
         "link": "https://newsfilter.io/articles/grand-opening-of-kodiak-sciences-purpose-built-bioconjugation-facility-to-support-potential-commerci-9ab986a7a96a7793facb089344819d93"
-    },
-    {
-        "good_news": 1,
-        "title": "4 Form - Statement of changes in beneficial ownership of securities - Kodiak Sciences Inc. (0001468748) (Issuer)",
-        "stock": [
-            "KOD"
-        ],
-        "date": "2022-05-18 17:30:19-04:00",
-        "link": "https://newsfilter.io/articles/4-form---statement-of-changes-in-beneficial-ownership-of-securities---kodiak-sciences-inc-0001468748-d79336970068462fafd0d54b20631691"
-    },
-    {
-        "good_news": 1,
-        "title": "SC 13D/A Form - [Amend] General statement of acquisition of beneficial ownership - Kodiak Sciences Inc. (0001468748) (Subject)",
-        "stock": [
-            "KOD"
-        ],
-        "date": "2022-05-18 17:23:23-04:00",
-        "link": "https://newsfilter.io/articles/sc-13da-form---amend-general-statement-of-acquisition-of-beneficial-ownership---kodiak-sciences-inc--8c1c17342871bc386d591303dadaa241"
     },
     {
         "good_news": 1,
@@ -1705,15 +1471,6 @@
         ],
         "date": "2022-05-18 13:00:00+00:00",
         "link": "https://newsfilter.io/articles/borqs-technologies-wins-solar-plus-energy-storage-contract-in-oahu-hawaii-partnering-with-a-state-ag-06bcf4814939ff171266f19f26ac3519"
-    },
-    {
-        "good_news": 1,
-        "title": "Armstrong Flooring Receives Approval for Additional Financing",
-        "stock": [
-            "AFI"
-        ],
-        "date": "2022-05-17 23:53:24+00:00",
-        "link": "https://newsfilter.io/articles/armstrong-flooring-receives-approval-for-additional-financing-045982c1f04a8fe4839c96c8d6787311"
     },
     {
         "good_news": 1,
@@ -1854,24 +1611,6 @@
     },
     {
         "good_news": 1,
-        "title": "MULLEN AUTOMOTIVE, INC. CLASS ACTION ALERT:  Wolf Haldenstein Adler Freeman & Herz LLP announces that a securities class action lawsuit has been filed in the United States District Court for the Central District of California against Mullen Automotive, Inc.",
-        "stock": [
-            "MULN"
-        ],
-        "date": "2022-05-13 08:51:00+00:00",
-        "link": "https://newsfilter.io/articles/mullen-automotive-inc-class-action-alert--wolf-haldenstein-adler-freeman--herz-llp-announces-that-a--87618ebd75b3959951854361c4adf97a"
-    },
-    {
-        "good_news": 1,
-        "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against Mullen Automotive, Inc. f/k/a Net Element, Inc. and Certain Officers - MULN; NETE",
-        "stock": [
-            "MULN"
-        ],
-        "date": "2022-05-12 22:39:00+00:00",
-        "link": "https://newsfilter.io/articles/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-mullen-automotive-inc-fka-net-elem-526d01373095c76c7cbc58522d607a03"
-    },
-    {
-        "good_news": 1,
         "title": "Jefferies Maintains Buy on Veru, Raises Price Target to $55",
         "stock": [
             "VERU"
@@ -1938,15 +1677,6 @@
     },
     {
         "good_news": 1,
-        "title": "Cullinan Oncology and Taiho Pharmaceutical Announce Strategic Collaboration to Jointly Develop and Commercialize CLN-081/TAS6417 and Taiho's Acquisition of Cullinan Pearl",
-        "stock": [
-            "CGEM"
-        ],
-        "date": "2022-05-12 06:00:00+00:00",
-        "link": "https://newsfilter.io/articles/cullinan-oncology-and-taiho-pharmaceutical-announce-strategic-collaboration-to-jointly-develop-and-c-3cdd5f81a2d104736cb4c0f4465ddb65"
-    },
-    {
-        "good_news": 1,
         "title": "Thinking about buying stock in Stealth BioTherapeutics, Allena Pharmaceuticals, Salarius Pharmaceuticals, Coupang, or Lordstown Motors?",
         "stock": [
             "ALNA",
@@ -1957,43 +1687,6 @@
         ],
         "date": "2022-05-12 12:30:00+00:00",
         "link": "https://newsfilter.io/articles/thinking-about-buying-stock-in-stealth-biotherapeutics-allena-pharmaceuticals-salarius-pharmaceutica-af7915afe4357a58211a08bf98fe63a0"
-    },
-    {
-        "good_news": 1,
-        "title": "424B3 Form - Prospectus [Rule 424(b)(3)] - Lordstown Motors Corp. (0001759546) (Filer)",
-        "stock": [
-            "RIDE"
-        ],
-        "date": "2022-05-11 20:45:49-04:00",
-        "link": "https://newsfilter.io/articles/424b3-form---prospectus-rule-424b3---lordstown-motors-corp-0001759546-filer-ee8f6da42f48fd97f9e49ab1c3781257"
-    },
-    {
-        "good_news": 1,
-        "title": "424B3 Form - Prospectus [Rule 424(b)(3)] - Lordstown Motors Corp. (0001759546) (Filer)",
-        "stock": [
-            "RIDE"
-        ],
-        "date": "2022-05-11 20:43:23-04:00",
-        "link": "https://newsfilter.io/articles/424b3-form---prospectus-rule-424b3---lordstown-motors-corp-0001759546-filer-01bbaa0fa97b74d49605de0f20d072d2"
-    },
-    {
-        "good_news": 1,
-        "title": "Lordstown Motors and Foxconn Close Asset Purchase Agreement and Enter into JV Agreement for MIH Based EV Development",
-        "stock": [
-            "HNHPF",
-            "RIDE"
-        ],
-        "date": "2022-05-11 21:25:00+00:00",
-        "link": "https://newsfilter.io/articles/lordstown-motors-and-foxconn-close-asset-purchase-agreement-and-enter-into-jv-agreement-for-mih-base-6be3e923a5e2b2585b23e648c0360905"
-    },
-    {
-        "good_news": 1,
-        "title": "8-K Form - Current report, items 1.01, 2.01, 2.03, and 9.01 - Lordstown Motors Corp. (0001759546) (Filer)",
-        "stock": [
-            "RIDE"
-        ],
-        "date": "2022-05-11 17:18:08-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-101-201-203-and-901---lordstown-motors-corp-0001759546-filer-3bd0b92d267e22b25b0de864cadac89f"
     },
     {
         "good_news": 1,
@@ -2016,15 +1709,6 @@
         ],
         "date": "2022-05-11 10:30:00+00:00",
         "link": "https://newsfilter.io/articles/fda-states-that-veru-should-submit-request-for-emergency-use-authorization-eua-based-on-positive-eff-165a00141d8d3530cdcab1a2d8233258"
-    },
-    {
-        "good_news": 1,
-        "title": "Exicure Announces $5 Million Raise in Private Placement Transaction Priced at Market Premium",
-        "stock": [
-            "XCUR"
-        ],
-        "date": "2022-05-10 23:21:00+00:00",
-        "link": "https://newsfilter.io/articles/exicure-announces-5-million-raise-in-private-placement-transaction-priced-at-market-premium-058606a26b417f22a6402d8824beae4a"
     },
     {
         "good_news": 1,
@@ -2052,24 +1736,6 @@
         ],
         "date": "2022-05-11 12:00:00+00:00",
         "link": "https://newsfilter.io/articles/regulus-therapeutics-announces-fda-acceptance-of-investigational-new-drug-ind-application-for-rgls84-779d4a9cd2fa07c46af930c752c5aaf8"
-    },
-    {
-        "good_news": 1,
-        "title": "8-K Form - Current report, items 1.01 and 9.01 - Vinco Ventures, Inc. (0001717556) (Filer)",
-        "stock": [
-            "BBIG"
-        ],
-        "date": "2022-05-05 17:26:06-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-items-101-and-901---vinco-ventures-inc-0001717556-filer-6079a217e07d0e11a9245bb0e4ebe15c"
-    },
-    {
-        "good_news": 1,
-        "title": "Vinco Sets Record Date and Distribution Date for Planned Business Separation of Cryptyde",
-        "stock": [
-            "BBIG"
-        ],
-        "date": "2022-05-05 21:05:00+00:00",
-        "link": "https://newsfilter.io/articles/vinco-sets-record-date-and-distribution-date-for-planned-business-separation-of-cryptyde-05bb3cf39a79dbacbcfeb2a2066de6f0"
     },
     {
         "good_news": 1,
@@ -2114,15 +1780,6 @@
         ],
         "date": "2022-05-05 06:03:47-04:00",
         "link": "https://newsfilter.io/articles/424b4-form---prospectus-rule-424b4---austin-gold-corp-0001817740-filer-f636fe3c8670fd8e6bcf15979e142427"
-    },
-    {
-        "good_news": 1,
-        "title": "6-K Form - Report of foreign issuer [Rules 13a-16 and 15d-16] - Austin Gold Corp. (0001817740) (Filer)",
-        "stock": [
-            "AUST"
-        ],
-        "date": "2022-05-04 21:59:29-04:00",
-        "link": "https://newsfilter.io/articles/6-k-form---report-of-foreign-issuer-rules-13a-16-and-15d-16---austin-gold-corp-0001817740-filer-c1c67b3ac5b279b05e58526e6da5cf2f"
     },
     {
         "good_news": 1,
@@ -2180,15 +1837,6 @@
         ],
         "date": "2022-05-02 11:00:00+00:00",
         "link": "https://newsfilter.io/articles/innoviz-selected-by-one-of-the-largest-global-vehicle-groups-to-be-its-direct-lidar-supplier-for-ser-4d44cd38eeb32f25bb68390530ad5800"
-    },
-    {
-        "good_news": 1,
-        "title": "8-K Form - Current report, item 5.02 - Statera Biopharma, Inc. (0001318641) (Filer)",
-        "stock": [
-            "STAB"
-        ],
-        "date": "2022-04-27 17:14:43-04:00",
-        "link": "https://newsfilter.io/articles/8-k-form---current-report-item-502---statera-biopharma-inc-0001318641-filer-f816519e01c3080cf75f9dcd0d1cf942"
     },
     {
         "good_news": 1,
