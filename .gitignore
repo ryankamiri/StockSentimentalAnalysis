@@ -1,3 +1,3 @@
 *.env
-*.h5
+model/models/*
 node_modules

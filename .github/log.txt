@@ -4,3 +4,7 @@
 7/9 - model is overfitting, looking at research papers for nlp for ideal models and trying to obtain more data, getting about 76-80% val acc, going to focus on reducing loss
 7/10 - improved pre processing, stemming works best, took out stop words and non letter characters such as numbers, identified problems: training data is resulting in low performance, bullish headlines are rated bearish, need manual fix, need new way to evaluate accuracy in model
 7/11 - Devised new harverstor with newsfilter. Planning on using Gap Ups and Top Gainers for Bullish Stocks and Top Losers for Bearish Stocks
+7/13 - Created a working backend for the website
+7/14 - Created a working frontend for the website
+7/15 - Fixed issues and added infinite scrolling
+7/16 - Website operational locally

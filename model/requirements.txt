@@ -1,0 +1,9 @@
+tensorflow
+nltk
+sklearn
+matplotlib
+numpy
+pymongo
+pymongo[srv]
+twilio
+python-dotenv
